@@ -51,7 +51,9 @@
 
 <script type="module">
   const d = await (await fetch('data/products.json')).json();
-  const pick = c => (d.filter(p=>p.category===c && p.image)[0]||{}).image;
+  // only feature in-stock pieces so the homepage never points at a sold-out item
+  const pick = c => (d.filter(p=>p.category===c && p.image && p.anyAvailable)[0]
+                  || d.filter(p=>p.category===c && p.image)[0] || {}).image;
   const set = (id,src) => { if(src) document.getElementById(id).style.backgroundImage = `url(${src}&width=700)`; };
   set('heroA', pick('Dresses'));
   set('heroB', pick('Jackets & Coats'));
