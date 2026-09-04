@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Le Styliste — Le Labo Martin Martin</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><img class="logo" src="https://martinmartin-paris.com/cdn/shop/files/LOGO_TEST_8c0f86d4-8760-4dec-ba4e-60753e9ebffa.png?v=1742669624" alt="Martin Martin"><small>Le Labo · projet indépendant · non affilié</small></a>
+  <nav class="nav">
+    <a href="stylist.html" class="active">Le Styliste</a>
+    <a href="girls.html">Le Quiz&nbsp;MM</a>
+  </nav>
+</div></header>
+
+<section class="hero wrap" style="padding-bottom:40px;max-width:760px">
+  <p class="kicker">Le Styliste</p>
+  <p class="lede" style="margin-bottom:44px">Décrivez un moment. Il compose une tenue entière en pièces&nbsp;Martin&nbsp;Martin.</p>
+  <textarea id="q" rows="1" placeholder="un dîner chic à Paris en octobre, élégante sans effort"></textarea>
+  <div style="margin-top:30px">
+    <button class="btn" id="go">Habillez-moi</button>
+  </div>
+  <p id="status" class="sub" style="margin-top:26px;min-height:16px;text-transform:none;letter-spacing:.02em;font-size:12px;opacity:.7"></p>
+</section>
+
+<section class="wrap" id="result" style="margin-top:8px"></section>
+
+<div class="footer wrap">
+  Looks composés algorithmiquement à partir de données publiques · pièces reliées à
+  <a href="https://martinmartin-paris.com" target="_blank" rel="noopener">martinmartin-paris.com</a> ·
+  projet indépendant
+</div>
+
+<script type="module" src="assets/stylist.js"></script>
+</body>
+</html>

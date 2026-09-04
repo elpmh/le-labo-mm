@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Le Labo Martin Martin — projet indépendant</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><img class="logo" src="https://martinmartin-paris.com/cdn/shop/files/LOGO_TEST_8c0f86d4-8760-4dec-ba4e-60753e9ebffa.png?v=1742669624" alt="Martin Martin"><small>Le Labo · projet indépendant · non affilié</small></a>
+  <nav class="nav">
+    <a href="stylist.html">Le Styliste</a>
+    <a href="girls.html">Le Quiz&nbsp;MM</a>
+  </nav>
+</div></header>
+
+<section class="hero wrap">
+  <p class="kicker">Prêt-à-porter · Rive Gauche · Paris</p>
+  <h1>Deux petites choses<br>pour le vestiaire Martin&nbsp;Martin</h1>
+  <p class="lede">Un labo indépendant, bâti sur le catalogue public de la maison. Rien à acheter ici,
+  aucune inscription, aucun pistage — chaque look et chaque caractère naît de pièces réelles,
+  et chaque fiche renvoie tout droit à la boutique.</p>
+</section>
+
+<section class="wrap grid" style="max-width:860px">
+  <a class="card" href="stylist.html">
+    <div class="ph" id="heroA"></div>
+    <div class="meta">
+      <p class="nm">Le Styliste</p>
+      <p class="sub">Un moment décrit → un look entier</p>
+      <p class="lede" style="font-size:15px;color:#6b6255;max-width:none">Dites-lui « un dîner à Paris,
+      élégante sans en faire trop » et il compose une tenue de la tête aux pieds à partir de pièces
+      disponibles — et vous explique pourquoi.</p>
+    </div>
+  </a>
+  <a class="card" href="girls.html">
+    <div class="ph" id="heroB"></div>
+    <div class="meta">
+      <p class="nm">Le Quiz MM</p>
+      <p class="sub">Quel personnage MM es-tu ?</p>
+      <p class="lede" style="font-size:15px;color:#6b6255;max-width:none">Martin Martin prénomme chacune
+      de ses pièces. Cinq questions sur toi, et l'on te présente la tienne — Constance, Tonia, Boy, Livia…</p>
+    </div>
+  </a>
+</section>
+
+<div class="footer wrap">
+  Projet indépendant · non affilié à Martin Martin · données issues de la boutique publique ·
+  <a href="https://martinmartin-paris.com" target="_blank" rel="noopener">martinmartin-paris.com</a>
+</div>
+
+<script type="module">
+  const d = await (await fetch('data/products.json')).json();
+  const pick = c => (d.filter(p=>p.category===c && p.image)[0]||{}).image;
+  const set = (id,src) => { if(src) document.getElementById(id).style.backgroundImage = `url(${src}&width=700)`; };
+  set('heroA', pick('Dresses'));
+  set('heroB', pick('Jackets & Coats'));
+</script>
+</body>
+</html>

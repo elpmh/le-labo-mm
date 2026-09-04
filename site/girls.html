@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Le Quiz MM — Le Labo Martin Martin</title>
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  .quiz{max-width:600px;margin:0 auto}
+  .qcard{padding:8px 0 0;text-align:center}
+  .qnum{font-size:10px;letter-spacing:.32em;text-transform:uppercase;color:var(--muted);opacity:.7}
+  .qtext{font-family:var(--serif);font-size:32px;font-weight:500;margin:14px 0 34px;line-height:1.12}
+  .opts{display:grid;gap:10px}
+  .opt{border:1px solid var(--line);background:transparent;padding:17px 20px;cursor:pointer;
+    font-family:var(--serif);font-size:18px;line-height:1.35;text-align:left;transition:.18s}
+  .opt:hover{border-color:var(--ink);background:var(--paper)}
+  .bar{height:1px;background:var(--line);margin-bottom:36px}
+  .bar>i{display:block;height:1px;background:var(--ink);transition:.3s}
+  .reveal{display:grid;grid-template-columns:1fr 1fr;background:var(--paper);box-shadow:var(--shadow)}
+  .reveal .ph{aspect-ratio:3/4;background:var(--bg2) center/cover no-repeat;min-height:420px}
+  .reveal .txt{padding:48px;display:flex;flex-direction:column;justify-content:center}
+  .reveal h2{font-family:var(--serif);font-weight:500;font-size:52px;margin:0;line-height:1}
+  .reveal .persona{font-family:var(--serif);font-size:21px;line-height:1.55;margin:18px 0 24px;color:#3a352c}
+  @media(max-width:640px){.reveal{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><img class="logo" src="https://martinmartin-paris.com/cdn/shop/files/LOGO_TEST_8c0f86d4-8760-4dec-ba4e-60753e9ebffa.png?v=1742669624" alt="Martin Martin"><small>Le Labo · projet indépendant · non affilié</small></a>
+  <nav class="nav">
+    <a href="stylist.html">Le Styliste</a>
+    <a href="girls.html" class="active">Le Quiz&nbsp;MM</a>
+  </nav>
+</div></header>
+
+<section class="hero wrap" style="padding-bottom:44px;max-width:640px">
+  <p class="kicker">Le Quiz MM</p>
+  <h1>Quel personnage MM es-tu&nbsp;?</h1>
+  <p class="lede" style="margin-bottom:8px">Chez Martin Martin, chaque pièce porte un prénom.
+  Cinq questions, et l'on te présente la tienne.</p>
+</section>
+
+<section class="wrap quiz" id="quiz"></section>
+<section class="wrap" id="reveal" style="margin-top:12px"></section>
+
+<section class="wrap" style="margin-top:96px">
+  <p class="kicker" style="text-align:center">Le casting complet · <span id="count"></span> personnages</p>
+  <div class="grid" id="gallery" style="margin-top:30px"></div>
+</section>
+
+<div class="footer wrap">
+  Caractères générés à partir des attributs de chaque pièce · pièces reliées à
+  <a href="https://martinmartin-paris.com" target="_blank" rel="noopener">martinmartin-paris.com</a> ·
+  projet indépendant
+</div>
+
+<script type="module" src="assets/girls.js"></script>
+</body>
+</html>

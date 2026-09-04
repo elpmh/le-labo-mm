@@ -1,0 +1,917 @@
+[
+ {
+  "name": "Agathe",
+  "piece": "Chemise Agathe",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 175.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/chemiseagatheblanc_1_c8f9d3fe-5739-4f3b-86e9-82cf7c3390ab.jpg?v=1770203275",
+  "url": "https://martinmartin-paris.com/products/chemise-agathe-blanc",
+  "available": true,
+  "persona": "Elle retrousse ses manches et fait avancer les choses. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Alix",
+  "piece": "Veste Alix",
+  "category": "Jackets & Coats",
+  "categoryFr": "Vestes & Manteaux",
+  "price": 280.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Vestealixnoir_1.jpg?v=1770187070",
+  "url": "https://martinmartin-paris.com/products/veste-alix",
+  "available": true,
+  "persona": "Elle laisse le vestiaire parler à sa place. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Amber",
+  "piece": "Body Amber",
+  "category": "Bodysuits",
+  "categoryFr": "Bodys",
+  "price": 170.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/bodyamber_1.jpg?v=1770189306",
+  "url": "https://martinmartin-paris.com/products/body-amber-noir",
+  "available": false,
+  "persona": "Elle construit chaque tenue depuis la base. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Anna",
+  "piece": "Top Anna",
+  "category": "Tops",
+  "categoryFr": "Tops",
+  "price": 150.0,
+  "colors": [
+   "white"
+  ],
+  "colorsFr": [
+   "blanc"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1081_BasseDef.jpg?v=1784738623",
+  "url": "https://martinmartin-paris.com/products/top-anna-blanc",
+  "available": true,
+  "persona": "Elle reste simple pour laisser chanter le reste. Elle vit en crème et en ivoire, douce mais jamais fragile. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "light",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Anne",
+  "piece": "Robe Anne",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 180.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Robeannemarine_2.jpg?v=1770632636",
+  "url": "https://martinmartin-paris.com/products/robe-anne-marine",
+  "available": true,
+  "persona": "Elle a sa robe parfaite, et la porte partout. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Barbara",
+  "piece": "Body Barbara",
+  "category": "Bodysuits",
+  "categoryFr": "Bodys",
+  "price": 170.0,
+  "colors": [
+   "blue",
+   "orange"
+  ],
+  "colorsFr": [
+   "bleu",
+   "orange"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJR0030_9.jpg?v=1784629061",
+  "url": "https://martinmartin-paris.com/products/body-barbara-orange-marine",
+  "available": true,
+  "persona": "Minimale par choix, jamais par défaut. Elle n'a pas peur de la couleur, ni des regards. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "bold",
+  "boldness": "bold",
+  "tier": "mid"
+ },
+ {
+  "name": "Bonnie",
+  "piece": "Jupe Bonnie",
+  "category": "Skirts",
+  "categoryFr": "Jupes",
+  "price": 120.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Jupebonniedentelle_1.jpg?v=1781098824",
+  "url": "https://martinmartin-paris.com/products/jupe-bonnie-pois",
+  "available": true,
+  "persona": "Romantique en haut, pragmatique en bas. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "accessible"
+ },
+ {
+  "name": "Boy",
+  "piece": "Chemise Boy",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 150.0,
+  "colors": [
+   "white"
+  ],
+  "colorsFr": [
+   "blanc"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBFW26PJULDE0015_FW26CBOYPO003.jpg?v=1784737193",
+  "url": "https://martinmartin-paris.com/products/chemise-boy-blanche",
+  "available": true,
+  "persona": "Elle retrousse ses manches et fait avancer les choses. Elle vit en crème et en ivoire, douce mais jamais fragile. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "light",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Brad",
+  "piece": "Manteau Brad",
+  "category": "Jackets & Coats",
+  "categoryFr": "Vestes & Manteaux",
+  "price": 290.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0473_BasseDef.jpg?v=1785509450",
+  "url": "https://martinmartin-paris.com/products/manteau-brad-noir",
+  "available": true,
+  "persona": "Elle laisse le vestiaire parler à sa place. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Brigitte",
+  "piece": "Robe Brigitte",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 250.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/robebrigittenoir_1.jpg?v=1770200370",
+  "url": "https://martinmartin-paris.com/products/robe-brigitte-noir-jersey",
+  "available": true,
+  "persona": "Elle dit oui, et improvise le reste. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Charlie",
+  "piece": "Chemise Charlie",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 180.0,
+  "colors": [
+   "white"
+  ],
+  "colorsFr": [
+   "blanc"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0820_BasseDef.jpg?v=1784737734",
+  "url": "https://martinmartin-paris.com/products/chemise-charlie-blanche",
+  "available": true,
+  "persona": "Elle croit qu'une belle chemise règle presque tout. Elle vit en crème et en ivoire, douce mais jamais fragile. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "light",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Clem",
+  "piece": "Jupe Clem",
+  "category": "Skirts",
+  "categoryFr": "Jupes",
+  "price": 135.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/jupeclemnoir_3.jpg?v=1770222900",
+  "url": "https://martinmartin-paris.com/products/jupe-clem-noir",
+  "available": true,
+  "persona": "Elle aime le mouvement quand elle marche. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Connie",
+  "piece": "Pull Connie",
+  "category": "Knitwear",
+  "categoryFr": "Mailles",
+  "price": 160.0,
+  "colors": [
+   "red"
+  ],
+  "colorsFr": [
+   "rouge"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BMARRT001_FW26PCONMA007_1.jpg?v=1784716264",
+  "url": "https://martinmartin-paris.com/products/pull-connie-rouge",
+  "available": true,
+  "persona": "C'est l'amie dont on veut toujours voler le pull. Elle n'a pas peur de la couleur, ni des regards. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "bold",
+  "boldness": "bold",
+  "tier": "mid"
+ },
+ {
+  "name": "Constance",
+  "piece": "Robe mini Constance",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 250.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Robeminiconstanceglacier_1.jpg?v=1772456077",
+  "url": "https://martinmartin-paris.com/products/robe-mini-constance-glacier",
+  "available": true,
+  "persona": "Elle a sa robe parfaite, et la porte partout. Elle reste dans les tons et laisse la coupe s'exprimer. On la croise à la cérémonie, au cocktail, à l'after.",
+  "occasion": "event",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Didier",
+  "piece": "Manteau Didier",
+  "category": "Jackets & Coats",
+  "categoryFr": "Vestes & Manteaux",
+  "price": 290.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1212_BasseDef.jpg?v=1784709692",
+  "url": "https://martinmartin-paris.com/products/manteau-didier-noir",
+  "available": true,
+  "persona": "Elle laisse le vestiaire parler à sa place. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Dylane",
+  "piece": "Sweat Dylane",
+  "category": "Tops",
+  "categoryFr": "Tops",
+  "price": 150.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/sweatdylane_2.jpg?v=1773758541",
+  "url": "https://martinmartin-paris.com/products/sweat-dylane-marine",
+  "available": true,
+  "persona": "Un naturel qui, en vérité, demande du soin. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Emmy",
+  "piece": "Polo Emmy",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 130.0,
+  "colors": [
+   "orange",
+   "navy"
+  ],
+  "colorsFr": [
+   "orange",
+   "marine"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PEMMJR0030_3.jpg?v=1784645430",
+  "url": "https://martinmartin-paris.com/products/polo-emmy-orange-marine",
+  "available": true,
+  "persona": "Elle croit qu'une belle chemise règle presque tout. Elle n'a pas peur de la couleur, ni des regards. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "bold",
+  "boldness": "bold",
+  "tier": "mid"
+ },
+ {
+  "name": "Esther",
+  "piece": "Top Esther",
+  "category": "Tops",
+  "categoryFr": "Tops",
+  "price": 160.0,
+  "colors": [
+   "brown"
+  ],
+  "colorsFr": [
+   "marron"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0614_BasseDef.jpg?v=1784808861",
+  "url": "https://martinmartin-paris.com/products/top-esther-marron",
+  "available": true,
+  "persona": "Elle reste simple pour laisser chanter le reste. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Fabiana",
+  "piece": "Veste Fabiana",
+  "category": "Jackets & Coats",
+  "categoryFr": "Vestes & Manteaux",
+  "price": 270.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/vestefabianagris_4.jpg?v=1770198240",
+  "url": "https://martinmartin-paris.com/products/veste-fabiana-gris-jersey",
+  "available": true,
+  "persona": "Elle laisse le vestiaire parler à sa place. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Gaspard",
+  "piece": "Veste Gaspard",
+  "category": "Jackets & Coats",
+  "categoryFr": "Vestes & Manteaux",
+  "price": 300.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1371_BasseDef.jpg?v=1784738850",
+  "url": "https://martinmartin-paris.com/products/veste-gaspard-noir",
+  "available": true,
+  "persona": "Elle arrive déjà habillée pour le temps et pour la pièce. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Gina",
+  "piece": "Robe Gina",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 230.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/robeginanoir_2_c39f10d3-d56c-4598-b30c-49843af25541.jpg?v=1770200555",
+  "url": "https://martinmartin-paris.com/products/robe-gina-noir",
+  "available": true,
+  "persona": "Elle a sa robe parfaite, et la porte partout. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Gloria",
+  "piece": "Robe Gloria",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 285.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260527_MartinMartin_1580.jpg?v=1783676831",
+  "url": "https://martinmartin-paris.com/products/robe-gloria-a-pois",
+  "available": true,
+  "persona": "Elle entre dans une pièce sans hausser la voix. Elle reste dans les tons et laisse la coupe s'exprimer. On la croise à la cérémonie, au cocktail, à l'after.",
+  "occasion": "event",
+  "palette": "neutral",
+  "boldness": "bold",
+  "tier": "investment"
+ },
+ {
+  "name": "James",
+  "piece": "Pantalon James",
+  "category": "Trousers",
+  "categoryFr": "Pantalons",
+  "price": 140.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0094_vesteprosper_pantalonjamesjg_20720553-1556-44f9-8f50-2eded5a9bf4c.jpg?v=1784731797",
+  "url": "https://martinmartin-paris.com/products/pantalon-james-noir",
+  "available": true,
+  "persona": "Elle préfère l'allure au confort — mais veut les deux. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Jeff",
+  "piece": "Pantalon Jeff",
+  "category": "Trousers",
+  "categoryFr": "Pantalons",
+  "price": 170.0,
+  "colors": [
+   "grey"
+  ],
+  "colorsFr": [
+   "gris"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_18.jpg?v=1788006789",
+  "url": "https://martinmartin-paris.com/products/pantalon-jeff-gris",
+  "available": false,
+  "persona": "Elle préfère l'allure au confort — mais veut les deux. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Jill",
+  "piece": "Jupe Jill",
+  "category": "Skirts",
+  "categoryFr": "Jupes",
+  "price": 170.0,
+  "colors": [
+   "grey"
+  ],
+  "colorsFr": [
+   "gris"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JUPEJILLGRISE.jpg?v=1788258734",
+  "url": "https://martinmartin-paris.com/products/jupe-jill-gris",
+  "available": false,
+  "persona": "Elle s'habille pour la journée qu'elle a décidé d'avoir. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Jim",
+  "piece": "Pantalon Jim",
+  "category": "Trousers",
+  "categoryFr": "Pantalons",
+  "price": 150.0,
+  "colors": [
+   "leopard"
+  ],
+  "colorsFr": [
+   "léopard"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1162_BasseDef_33dfa0be-85ae-42fc-9e11-552d1f65dccf.jpg?v=1784728625",
+  "url": "https://martinmartin-paris.com/products/pantalon-jim-leopard",
+  "available": true,
+  "persona": "Elle marche vite et prend les escaliers. Elle n'a pas peur de la couleur, ni des regards. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "bold",
+  "boldness": "bold",
+  "tier": "mid"
+ },
+ {
+  "name": "Jo",
+  "piece": "Jupe Jo",
+  "category": "Tops",
+  "categoryFr": "Tops",
+  "price": 145.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FIHCEPRODUITNEWCO_3.jpg?v=1781193491",
+  "url": "https://martinmartin-paris.com/products/jupe-jo-rayures-rouge-blanc",
+  "available": true,
+  "persona": "Un naturel qui, en vérité, demande du soin. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Jules",
+  "piece": "Pantalon Jules",
+  "category": "Trousers",
+  "categoryFr": "Pantalons",
+  "price": 150.0,
+  "colors": [
+   "blue"
+  ],
+  "colorsFr": [
+   "bleu"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_11.jpg?v=1788005632",
+  "url": "https://martinmartin-paris.com/products/pantalon-jules-bleu",
+  "available": false,
+  "persona": "Elle a des opinions, et un très beau pantalon. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Julia",
+  "piece": "Jupe Julia",
+  "category": "Skirts",
+  "categoryFr": "Jupes",
+  "price": 160.0,
+  "colors": [
+   "khaki"
+  ],
+  "colorsFr": [
+   "kaki"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_9_5f5b2c39-965b-4a9a-9dd4-4e56ff543d1f.jpg?v=1784732610",
+  "url": "https://martinmartin-paris.com/products/jupe-julia-kaki",
+  "available": true,
+  "persona": "Romantique en haut, pragmatique en bas. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Keira",
+  "piece": "Robe Keira",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 250.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RKEIRT001_Keira.jpg?v=1784559657",
+  "url": "https://martinmartin-paris.com/products/robe-keira-noire",
+  "available": true,
+  "persona": "Elle entre dans une pièce sans hausser la voix. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Kylie",
+  "piece": "Robe Kylie",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 290.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKylienoir_4.jpg?v=1772445544",
+  "url": "https://martinmartin-paris.com/products/robe-kylie-noir",
+  "available": true,
+  "persona": "Elle entre dans une pièce sans hausser la voix. Elle reste dans les tons et laisse la coupe s'exprimer. On la croise à la cérémonie, au cocktail, à l'after.",
+  "occasion": "event",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Lili",
+  "piece": "Top Lili",
+  "category": "Tops",
+  "categoryFr": "Tops",
+  "price": 85.0,
+  "colors": [
+   "ivory"
+  ],
+  "colorsFr": [
+   "ivoire"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0760_BasseDef_f70ce173-dce2-46be-9a4a-851ed7f7ea68.jpg?v=1784737786",
+  "url": "https://martinmartin-paris.com/products/top-lili-ivoire",
+  "available": true,
+  "persona": "Elle reste simple pour laisser chanter le reste. Elle vit en crème et en ivoire, douce mais jamais fragile. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "light",
+  "boldness": "quiet",
+  "tier": "accessible"
+ },
+ {
+  "name": "Livia",
+  "piece": "Robe Livia",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 250.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/48_c21eb7e7-e9ed-4a7c-883a-42fbf90e3c4f.jpg?v=1788259523",
+  "url": "https://martinmartin-paris.com/products/robe-livia-noir",
+  "available": true,
+  "persona": "Elle entre dans une pièce sans hausser la voix. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Marceau",
+  "piece": "Blouse Marceau",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 180.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BMARRT001_FW26JJILRT001_1_9046acf4-39bd-43d5-adb0-b13a234f9f93.jpg?v=1784630914",
+  "url": "https://martinmartin-paris.com/products/blouse-marceau-noir",
+  "available": true,
+  "persona": "Elle croit qu'une belle chemise règle presque tout. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Marilyn",
+  "piece": "Robe Marilyn",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 270.0,
+  "colors": [
+   "brown"
+  ],
+  "colorsFr": [
+   "marron"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/MARILYNJERSEYPETITCARREAU.jpg?v=1784801810",
+  "url": "https://martinmartin-paris.com/products/robe-marilyn-marron",
+  "available": true,
+  "persona": "Elle entre dans une pièce sans hausser la voix. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Milo",
+  "piece": "Chaussettes Milo",
+  "category": "Accessories",
+  "categoryFr": "Accessoires",
+  "price": 35.0,
+  "colors": [
+   "yellow"
+  ],
+  "colorsFr": [
+   "jaune"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_0675_BasseDef.jpg?v=1784711856",
+  "url": "https://martinmartin-paris.com/products/chausette-milo-jaune",
+  "available": true,
+  "persona": "Elle collectionne les petits riens qui font tout. Elle n'a pas peur de la couleur, ni des regards. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "bold",
+  "boldness": "bold",
+  "tier": "accessible"
+ },
+ {
+  "name": "Noddy",
+  "piece": "Pantalon Noddy",
+  "category": "Trousers",
+  "categoryFr": "Pantalons",
+  "price": 165.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/40_b8dbbc0c-b329-48fd-9922-64bdf12f688a.jpg?v=1788189810",
+  "url": "https://martinmartin-paris.com/products/pantalon-noddy-marron-jersey-petit-carreaux",
+  "available": true,
+  "persona": "Elle marche vite et prend les escaliers. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "neutral",
+  "boldness": "bold",
+  "tier": "mid"
+ },
+ {
+  "name": "Ophelia",
+  "piece": "Body Ophelia",
+  "category": "Bodysuits",
+  "categoryFr": "Bodys",
+  "price": 170.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BOPHJG001_Ophelia_4.jpg?v=1784734173",
+  "url": "https://martinmartin-paris.com/products/body-ophelia-noir",
+  "available": true,
+  "persona": "Elle construit chaque tenue depuis la base. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Pam",
+  "piece": "Body Pam",
+  "category": "Bodysuits",
+  "categoryFr": "Bodys",
+  "price": 170.0,
+  "colors": [
+   "leopard"
+  ],
+  "colorsFr": [
+   "léopard"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1300_BasseDef.jpg?v=1784735529",
+  "url": "https://martinmartin-paris.com/products/body-pam-leopard",
+  "available": true,
+  "persona": "Elle construit chaque tenue depuis la base. Elle n'a pas peur de la couleur, ni des regards. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "bold",
+  "boldness": "bold",
+  "tier": "mid"
+ },
+ {
+  "name": "Pamela",
+  "piece": "Robe Pamela",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 300.0,
+  "colors": [
+   "ivory"
+  ],
+  "colorsFr": [
+   "ivoire"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RPAMJG002_9_61356410-97e5-4f18-b5c8-81f38a083ddc.jpg?v=1784717438",
+  "url": "https://martinmartin-paris.com/products/robe-pamela-ivoire",
+  "available": true,
+  "persona": "Elle dit oui, et improvise le reste. Elle vit en crème et en ivoire, douce mais jamais fragile. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "light",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Prosper",
+  "piece": "Veste Prosper",
+  "category": "Jackets & Coats",
+  "categoryFr": "Vestes & Manteaux",
+  "price": 190.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0094_vesteprosper_pantalonjamesjg.jpg?v=1784648346",
+  "url": "https://martinmartin-paris.com/products/veste-prosper-noir",
+  "available": true,
+  "persona": "C'est elle qui vous prête son manteau. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Roma",
+  "piece": "Robe Roma",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 165.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/roberomarayures_3.jpg?v=1780647698",
+  "url": "https://martinmartin-paris.com/products/robe-roma-rayures",
+  "available": true,
+  "persona": "Elle entre dans une pièce sans hausser la voix. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Romane",
+  "piece": "Body Romane",
+  "category": "Bodysuits",
+  "categoryFr": "Bodys",
+  "price": 170.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/bodyromane_4.jpg?v=1770189425",
+  "url": "https://martinmartin-paris.com/products/body-romane-noir",
+  "available": true,
+  "persona": "Elle construit chaque tenue depuis la base. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Rosa",
+  "piece": "Robe Rosa",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 180.0,
+  "colors": [],
+  "colorsFr": [],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/roberosanoir_1.jpg?v=1770200204",
+  "url": "https://martinmartin-paris.com/products/robe-rosa-noir",
+  "available": true,
+  "persona": "Elle entre dans une pièce sans hausser la voix. Elle reste dans les tons et laisse la coupe s'exprimer. On l'attrape entre deux trains, agaçante de fraîcheur.",
+  "occasion": "travel",
+  "palette": "neutral",
+  "boldness": "quiet",
+  "tier": "mid"
+ },
+ {
+  "name": "Sonny",
+  "piece": "Pull Sonny",
+  "category": "Knitwear",
+  "categoryFr": "Mailles",
+  "price": 135.0,
+  "colors": [
+   "red"
+  ],
+  "colorsFr": [
+   "rouge"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PSONMA007_c67bc25b-6ef7-435b-bb74-6cf703f64b6a.jpg?v=1784713319",
+  "url": "https://martinmartin-paris.com/products/pull-sonny-rouge",
+  "available": true,
+  "persona": "C'est l'amie dont on veut toujours voler le pull. Elle n'a pas peur de la couleur, ni des regards. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "bold",
+  "boldness": "bold",
+  "tier": "mid"
+ },
+ {
+  "name": "Tonia",
+  "piece": "Robe Tonia noir",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 230.0,
+  "colors": [
+   "black"
+  ],
+  "colorsFr": [
+   "noir"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FICHEPRODUITSS26_2.jpg?v=1772488685",
+  "url": "https://martinmartin-paris.com/products/robe-tonia-noir",
+  "available": true,
+  "persona": "Elle entre dans une pièce sans hausser la voix. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. On la croise à la cérémonie, au cocktail, à l'after.",
+  "occasion": "event",
+  "palette": "dark",
+  "boldness": "quiet",
+  "tier": "investment"
+ },
+ {
+  "name": "Twig",
+  "piece": "Veste Twig",
+  "category": "Jackets & Coats",
+  "categoryFr": "Vestes & Manteaux",
+  "price": 260.0,
+  "colors": [
+   "leopard"
+  ],
+  "colorsFr": [
+   "léopard"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_15.jpg?v=1788006193",
+  "url": "https://martinmartin-paris.com/products/veste-twig-leopard",
+  "available": false,
+  "persona": "C'est elle qui vous prête son manteau. Elle n'a pas peur de la couleur, ni des regards. Une icône du mardi — la vraie vie, bien menée.",
+  "occasion": "everyday",
+  "palette": "bold",
+  "boldness": "bold",
+  "tier": "investment"
+ }
+]
