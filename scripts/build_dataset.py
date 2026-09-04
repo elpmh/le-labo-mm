@@ -125,6 +125,26 @@ def detect_pattern(tags, title, desc):
         return "plain"
     return None
 
+WARM_WORDS = ("sans manche", "sans manches", "manche courte", "manches courtes",
+              "bretelle", "débardeur", "lin", "coton léger", "broderie anglaise",
+              "dos nu", "short", "bermuda", "ajouré", "crochet", "éponge")
+COLD_WORDS = ("manches longues", "manche longue", "laine", "maille", "cachemire",
+              "col roulé", "velours", "matelassé", "doudoune", "polaire", "flanelle",
+              "épais", "chaud", "tricot", "mohair", "alpaga", "molleton")
+
+def climate(tags, title, desc, category, season):
+    """cold · warm · all — is this piece for cold or warm weather?"""
+    blob = f"{title} {desc}".lower()
+    warm = cold = 0
+    if season == "FW26": cold += 2
+    elif season in ("SS26", "SUMMER25"): warm += 2
+    warm += sum(w in blob for w in WARM_WORDS)
+    cold += sum(w in blob for w in COLD_WORDS)
+    if category == "Knitwear" or category == "Jackets & Coats": cold += 1
+    if cold - warm >= 2: return "cold"
+    if warm - cold >= 2: return "warm"
+    return "all"
+
 def formality(tags, occasions, category):
     """1=casual · 2=everyday · 3=smart · 4=formal — the taste backbone."""
     low = {t.lower() for t in tags}
@@ -173,6 +193,7 @@ def build():
         imgs = [im["src"] for im in p.get("images", [])]
         cat = normalize_category(p.get("product_type"), p.get("tags", []))
         desc = strip_html(p.get("body_html"))[:400]
+        fac = facets(p.get("tags", []), p["title"], desc, cat)
         out.append({
             "id": p["id"],
             "title": p["title"],
@@ -189,7 +210,8 @@ def build():
             "sizes": sizes,
             "anyAvailable": any(s["available"] for s in sizes),
             "tags": p.get("tags", []),
-            **facets(p.get("tags", []), p["title"], desc, cat),
+            "climate": climate(p.get("tags", []), p["title"], desc, cat, fac["season"]),
+            **fac,
         })
     os.makedirs(OUT_DIR, exist_ok=True)
     json.dump(out, open(os.path.join(OUT_DIR, "products.json"), "w"),

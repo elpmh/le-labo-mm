@@ -30,6 +30,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -87,6 +88,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -147,6 +149,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -204,6 +207,7 @@
    "Jupe- courte - drapée - grise",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -252,6 +256,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -366,6 +371,7 @@
   ],
   "anyAvailable": true,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -421,6 +427,7 @@
    "robe",
    "Robe - Dos nus - ivoire"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -480,6 +487,7 @@
    "robe",
    "Robe - coupe droite - noire"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -537,6 +545,7 @@
    "Pantalon",
    "Pantalon - boot cut - noir"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -592,6 +601,7 @@
    "leopard",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -640,6 +650,7 @@
    "NEWIN",
    "uni"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -695,6 +706,7 @@
    "NEWIN",
    "uni"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -748,6 +760,7 @@
    "top",
    "Top - Manches longues - blanc"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -803,6 +816,7 @@
    "Veste",
    "Veste-courte-leopard"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -851,6 +865,7 @@
    "NEWIN",
    "uni"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -908,6 +923,7 @@
    "Robe",
    "Robe - dos nu - noir"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -965,6 +981,7 @@
    "Jupe",
    "Jupe-courte - drapée - beige"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -1016,6 +1033,7 @@
    "Jupe",
    "Jupe-courte-drapée-tartan"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -1059,6 +1077,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -1106,6 +1125,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -1154,6 +1174,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -1208,6 +1229,7 @@
    "top",
    "Top - coupe droite - marron"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1266,6 +1288,7 @@
    "Pantalon",
    "Pantalon - boot cut - cuir - noir"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1307,6 +1330,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1348,6 +1372,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1393,6 +1418,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1442,6 +1468,7 @@
    "Pantalon",
    "Pantalon - Baggy - petits carreaux marrons"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1497,6 +1524,7 @@
    "Jupe",
    "Jupe- courte - drapée - noire"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -1554,6 +1582,7 @@
    "robe",
    "Robe - Dos nu - Léopard"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1612,6 +1641,7 @@
    "Pantalon",
    "Pantalon - Coupe droite - Léopard"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1667,6 +1697,7 @@
    "Pantalon",
    "Pantalon-fluide-beige"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1718,6 +1749,7 @@
    "Pantalon",
    "Pantalon-coupe-fluide"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1772,6 +1804,7 @@
    "NEWIN",
    "TOP"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1826,6 +1859,7 @@
    "Pantalon",
    "Pantalon - Baggy - kaki"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1881,6 +1915,7 @@
    "Pantalon",
    "Pantalon - Baggy - marron"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -1928,6 +1963,7 @@
    "Pantalon",
    "Pantalon - Coupe décontractée - ivoire"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -1976,6 +2012,7 @@
    "Pantalon",
    "Pantalon - Décontracté - gris"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2023,6 +2060,7 @@
    "top",
    "Top - maille - ivoire"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2078,6 +2116,7 @@
    "Jupe - crayon - kaki",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2129,6 +2168,7 @@
    "Jupe - crayon - similicuir",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2175,6 +2215,7 @@
    "top",
    "Top - Maille - gris"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2231,6 +2272,7 @@
    "PULL",
    "Pull - Maille - rouge"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -2286,6 +2328,7 @@
    "PULL",
    "Pull - maille - noir"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2341,6 +2384,7 @@
    "PULL",
    "Pull - maille - gris"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2396,6 +2440,7 @@
    "PULL",
    "Pull - maille - col roulé - rouge"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2451,6 +2496,7 @@
    "PULL",
    "Pull - maille - col roulé - noir"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2506,6 +2552,7 @@
    "PULL",
    "Pull - maille - col roulé - gris"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2561,6 +2608,7 @@
    "PULL",
    "Pull - maille - col roulé - camel"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -2612,6 +2660,7 @@
    "NEWIN",
    "Veste - saharienne - noire"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2665,6 +2714,7 @@
    "NEWIN",
    "Veste - saharienne - camel"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -2721,6 +2771,7 @@
    "manteaux",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2782,6 +2833,7 @@
    "manteaux",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2840,6 +2892,7 @@
    "manteaux",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2885,6 +2938,7 @@
    "manteaux",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -2934,6 +2988,7 @@
    "manteaux",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -2993,6 +3048,7 @@
    "Pantalon",
    "Pantalon - Baggy - noir"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3048,6 +3104,7 @@
    "Pantalon",
    "Pantalon - Baggy - Ivoire"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -3101,6 +3158,7 @@
    "Pantalon",
    "Pantalon - baggy - camel"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3157,6 +3215,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3212,6 +3271,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3264,6 +3324,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3320,6 +3381,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -3370,6 +3432,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -3424,6 +3487,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3480,6 +3544,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -3533,6 +3598,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3590,6 +3656,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -3646,6 +3713,7 @@
    "FW26",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -3704,6 +3772,7 @@
    "top",
    "Top - coupe droite - orange et marine"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -3758,6 +3827,7 @@
    "robe",
    "Robe-longue-dos-nu"
   ],
+  "climate": "all",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3813,6 +3883,7 @@
    "robe",
    "Robe-courte-tailleur-marron"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3868,6 +3939,7 @@
    "robe",
    "Robe-courte-tailleur-noir"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3923,6 +3995,7 @@
    "robe",
    "Robe- coupe droite - noire"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -3974,6 +4047,7 @@
    "Polo - coupe ample - orange et marine",
    "TOP"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -4029,6 +4103,7 @@
    "Jupe - crayon - noire",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -4083,6 +4158,7 @@
    "Jupe - crayonn - marron",
    "NEWIN"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -4143,6 +4219,7 @@
    "Pantalon",
    "Pantalon-coupe droite - gris"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4192,6 +4269,7 @@
    "manteaux",
    "Veste - coupe courte - cuir"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4246,6 +4324,7 @@
    "manteaux",
    "Veste - coupe droite - marron"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4304,6 +4383,7 @@
    "Jean-coupe-flare-bleu",
    "Pantalon"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4347,6 +4427,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4390,6 +4471,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4437,6 +4519,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4485,6 +4568,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4532,6 +4616,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -4578,6 +4663,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -4630,6 +4716,7 @@
    "NEWIN",
    "Veste - Bomber - noire"
   ],
+  "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -4678,6 +4765,7 @@
    "FW26",
    "motif"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4736,6 +4824,7 @@
    "Pantalon",
    "Pantalon-coupe droite - noir"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -4796,6 +4885,7 @@
    "Pantalon",
    "Pantalon-Coupe droite - beige"
   ],
+  "climate": "cold",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -4846,6 +4936,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -4905,6 +4996,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -4964,6 +5056,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": true,
@@ -5024,6 +5117,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5085,6 +5179,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5147,6 +5242,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5212,6 +5308,7 @@
    "travelchic",
    "uni"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5265,6 +5362,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5325,6 +5423,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5386,6 +5485,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": true,
@@ -5447,6 +5547,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5506,6 +5607,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5567,6 +5669,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5622,6 +5725,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5682,6 +5786,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5735,6 +5840,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5788,6 +5894,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5846,6 +5953,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": true,
@@ -5903,6 +6011,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -5959,6 +6068,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -6016,6 +6126,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": true,
   "capuPick": true,
@@ -6077,6 +6188,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -6138,6 +6250,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -6198,6 +6311,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -6254,6 +6368,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": true,
@@ -6317,6 +6432,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -6376,6 +6492,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -6437,6 +6554,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": false,
@@ -6494,6 +6612,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": true,
   "capuPick": true,
@@ -6548,6 +6667,7 @@
   ],
   "anyAvailable": true,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -6604,6 +6724,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -6655,6 +6776,7 @@
    "skin",
    "SUMMER25"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -6709,6 +6831,7 @@
    "robes",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -6758,6 +6881,7 @@
    "SUMMER25",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -6814,6 +6938,7 @@
   ],
   "anyAvailable": false,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -6876,6 +7001,7 @@
    "CAPU",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -6943,6 +7069,7 @@
   "tags": [
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7004,6 +7131,7 @@
   "tags": [
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7051,6 +7179,7 @@
    "jupe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7100,6 +7229,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7142,6 +7272,7 @@
    "jupe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7187,6 +7318,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7228,6 +7360,7 @@
    "jupe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7273,6 +7406,7 @@
    "hauts",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7314,6 +7448,7 @@
    "jupe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7356,6 +7491,7 @@
    "hauts",
    "SS26"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7404,6 +7540,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7451,6 +7588,7 @@
    "hauts",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7498,6 +7636,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7542,6 +7681,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7596,6 +7736,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7649,6 +7790,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7703,6 +7845,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7756,6 +7899,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7811,6 +7955,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7870,6 +8015,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -7933,6 +8079,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -7978,6 +8125,7 @@
    "jupe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8015,6 +8163,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8070,6 +8219,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8122,6 +8272,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8170,6 +8321,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8220,6 +8372,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8269,6 +8422,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8318,6 +8472,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8369,6 +8524,7 @@
    "SS26",
    "TOP"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -8422,6 +8578,7 @@
    "Robe",
    "SS26"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8577,6 +8734,7 @@
   ],
   "anyAvailable": true,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8752,6 +8910,7 @@
   ],
   "anyAvailable": true,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -8927,6 +9086,7 @@
   ],
   "anyAvailable": true,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -9078,6 +9238,7 @@
   ],
   "anyAvailable": true,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -9254,6 +9415,7 @@
   ],
   "anyAvailable": true,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -9431,6 +9593,7 @@
   ],
   "anyAvailable": true,
   "tags": [],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -9477,6 +9640,7 @@
    "travelchic",
    "uni"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -9524,6 +9688,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -9572,6 +9737,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -9619,6 +9785,7 @@
    "SS26",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -9665,6 +9832,7 @@
    "travelchic",
    "uni"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -9716,6 +9884,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -9773,6 +9942,7 @@
    "TOP",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,
@@ -9833,6 +10003,7 @@
   "tags": [
    "gift"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -9889,6 +10060,7 @@
    "accessoire",
    "SUMMER25"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -9932,6 +10104,7 @@
    "NEWIN",
    "SUMMER25"
   ],
+  "climate": "warm",
   "isNew": true,
   "onSale": false,
   "capuPick": true,
@@ -10059,6 +10232,7 @@
    "NEWIN",
    "SUMMER25"
   ],
+  "climate": "warm",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -10103,6 +10277,7 @@
    "SUMMER25",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
@@ -10148,6 +10323,7 @@
    "READYWEAR",
    "ÉTÉ"
   ],
+  "climate": "all",
   "isNew": false,
   "onSale": false,
   "capuPick": false,
@@ -10204,6 +10380,7 @@
    "SUMMER25",
    "travelchic"
   ],
+  "climate": "warm",
   "isNew": false,
   "onSale": false,
   "capuPick": true,

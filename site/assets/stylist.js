@@ -111,11 +111,25 @@ function topBy(sc, pred, k){
     .slice(0, k);
 }
 
+// saison de la requête : on ne propose pas une robe estivale en décembre.
+function querySeason(q){
+  const t = q.toLowerCase();
+  const cold = /hiver|froid|neige|noël|noel|décembre|decembre|janvier|février|fevrier|novembre|automne|octobre|manteau|pull|laine/.test(t);
+  const warm = /été|ete|chaud|chaude|plage|canicule|juin|juillet|août|aout|estival/.test(t);
+  return cold && !warm ? "cold" : warm && !cold ? "warm" : null;
+}
+function climatePenalty(p, season){
+  if (!season || p.category === "Accessories") return 0;   // bijoux : hors-saison
+  if (season === "cold") return p.climate === "warm" ? -0.45 : p.climate === "cold" ? 0.05 : 0;
+  return p.climate === "cold" ? -0.45 : p.climate === "warm" ? 0.05 : 0;   // warm
+}
+
 // ---- assemblage : on note la TENUE ENTIÈRE, pas les pièces isolées --------
 function assemble(scores, q){
-  // léger malus si épuisé, pour privilégier le disponible
-  const sc = scores.map((s,i)=> s - (avail(PRODUCTS[i])?0:0.04));
-  const cold = /automne|hiver|froid|octobre|novembre|décembre|decembre|janvier|février|fevrier/i.test(q);
+  const season = querySeason(q);
+  const cold = season === "cold";
+  // malus si épuisé + malus si la pièce ne convient pas à la saison demandée
+  const sc = scores.map((s,i)=> s - (avail(PRODUCTS[i])?0:0.04) + climatePenalty(PRODUCTS[i], season));
   const mn = Math.min(...sc), rng = (Math.max(...sc) - mn) || 1;
   const idx = new Map(PRODUCTS.map((p,i)=>[p,i]));
   const relOf = p => (sc[idx.get(p)] - mn) / rng;                         // 0..1
@@ -187,13 +201,16 @@ function explain(look){
   const F = ["", "décontracté", "de jour", "soigné", "habillé"];
   const f = Math.round(look.reduce((s,x)=>s+(x.p.formality||2),0)/look.length);
   bits.push(`tenu dans un registre ${F[f]||"cohérent"}, sans fausse note`);
+  const season = querySeason(CURRENT_Q);
+  if (season === "cold") bits.push("pensé pour la saison froide");
+  else if (season === "warm") bits.push("pensé pour les beaux jours");
   const total = look.reduce((s,x)=>s+x.p.price,0);
   const names = look.map(x=>x.p.name).join(" + ");
   return `Un look ${bits.join(", ")}. ${names} — €${total.toFixed(0)} au total.`;
 }
 
 // ---- rendu ----------------------------------------------------------------
-let LOOKS = [], LOOKIDX = 0;
+let LOOKS = [], LOOKIDX = 0, CURRENT_Q = "";
 
 function render(look){
   if (!look || !look.length){ resultEl.innerHTML = "<p class='lede'>Pas de correspondance nette — précisez l'occasion ou une couleur.</p>"; return; }
@@ -228,7 +245,7 @@ function render(look){
 // ---- exécution ------------------------------------------------------------
 async function run(){
   const q = $("#q").value.trim() || $("#q").placeholder;   // vide → l'exemple
-  $("#q").value = q;
+  $("#q").value = q; CURRENT_Q = q;
   $("#go").disabled = true;
   const ok = await ensureModel();
   let scores;
