@@ -3296,9 +3296,12 @@
   "description": "- Body ajusté - Col bateau - Ouverture au dos plongeante - Bretelles à perles dorées signature MM - Fermeture par boutons-pression à l'entrejambe La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/body-pam-marron",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BPAMJG001_FW26PJULDE0015.jpg?v=1784736169"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/5_1cf803a8-1d0c-41c5-b22f-810890dd09c3.png?v=1788531059",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/6_d190bdbc-60e5-410a-abf8-6e155f70d7c4.png?v=1788531059",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/7_55d8e5d3-ca1c-4dad-8796-8e32b7a7e341.png?v=1788531059",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/8_3de85bce-a0dc-417a-807e-4ac757e1fbc9.png?v=1788531059"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BPAMJG001_FW26PJULDE0015.jpg?v=1784736169",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/5_1cf803a8-1d0c-41c5-b22f-810890dd09c3.png?v=1788531059",
   "sizes": [
    {
     "size": "34",
@@ -3350,9 +3353,9 @@
   "url": "https://martinmartin-paris.com/products/body-pam-kaki",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_00_559_BasseDef_656cac3a-67b6-4c11-afeb-0082c5bfe599.jpg?v=1784735972",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_00_592_BasseDef.jpg?v=1784735973",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_00_563_BasseDef_9d977c02-9a8b-4dc8-ae5f-8c75a829c256.jpg?v=1784735972",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_00_588_BasseDef_9089bace-f685-4bf1-a9f3-d1e73e955634.jpg?v=1784735972",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_00_592_BasseDef.jpg?v=1784735973"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_00_588_BasseDef_9089bace-f685-4bf1-a9f3-d1e73e955634.jpg?v=1784735972"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_00_559_BasseDef_656cac3a-67b6-4c11-afeb-0082c5bfe599.jpg?v=1784735972",
   "sizes": [
@@ -5028,7 +5031,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -8363,7 +8366,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
