@@ -4938,13 +4938,12 @@
   "anyAvailable": true,
   "tags": [
    "jupe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -4998,13 +4997,12 @@
   "anyAvailable": true,
   "tags": [
    "Robe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5034,7 +5032,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -5058,13 +5056,12 @@
    "CAPU",
    "intemporels",
    "Robe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": true,
   "pattern": null,
   "season": "SS26",
@@ -5118,14 +5115,13 @@
   "anyAvailable": true,
   "tags": [
    "hauts",
-   "SOLDES",
    "SS26",
    "TOP",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5180,14 +5176,13 @@
   "anyAvailable": true,
   "tags": [
    "hauts",
-   "SOLDES",
    "SS26",
    "TOP",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5243,14 +5238,13 @@
   "tags": [
    "hauts",
    "intemporels",
-   "SOLDES",
    "SS26",
    "TOP",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5308,7 +5302,6 @@
   "anyAvailable": true,
   "tags": [
    "chemises",
-   "SOLDES",
    "SS26",
    "TOP",
    "travelchic",
@@ -5316,7 +5309,7 @@
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": "plain",
   "season": "SS26",
@@ -5363,14 +5356,13 @@
   "anyAvailable": true,
   "tags": [
    "hauts",
-   "SOLDES",
    "SS26",
    "TOP",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5425,13 +5417,12 @@
   "anyAvailable": true,
   "tags": [
    "Pantalon",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5487,13 +5478,12 @@
   "tags": [
    "CAPU",
    "Pantalon",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": true,
   "pattern": null,
   "season": "SS26",
@@ -5549,13 +5539,12 @@
   "anyAvailable": true,
   "tags": [
    "Pantalon",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5609,13 +5598,12 @@
   "anyAvailable": true,
   "tags": [
    "Pantalon",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5671,13 +5659,12 @@
   "anyAvailable": true,
   "tags": [
    "Pantalon",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5727,13 +5714,12 @@
   "anyAvailable": true,
   "tags": [
    "jupe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5788,13 +5774,12 @@
   "anyAvailable": true,
   "tags": [
    "jupe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5841,14 +5826,13 @@
   "anyAvailable": false,
   "tags": [
    "body",
-   "SOLDES",
    "SS26",
    "TOP",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5896,13 +5880,12 @@
   "anyAvailable": true,
   "tags": [
    "body",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -5936,7 +5919,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -5955,13 +5938,12 @@
   "tags": [
    "CAPU",
    "Robe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": true,
   "pattern": null,
   "season": "SS26",
@@ -6013,13 +5995,12 @@
   "anyAvailable": true,
   "tags": [
    "Robe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -6070,13 +6051,12 @@
   "anyAvailable": false,
   "tags": [
    "Robe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -6128,13 +6108,12 @@
   "tags": [
    "CAPU",
    "Robe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "warm",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": true,
   "pattern": null,
   "season": "SS26",
@@ -6190,13 +6169,12 @@
   "anyAvailable": true,
   "tags": [
    "Robe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -6252,13 +6230,12 @@
   "anyAvailable": true,
   "tags": [
    "Robe",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -6313,13 +6290,12 @@
   "anyAvailable": true,
   "tags": [
    "manteaux",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -6370,13 +6346,12 @@
   "tags": [
    "CAPU",
    "manteaux",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": true,
   "pattern": null,
   "season": "SS26",
@@ -6434,13 +6409,12 @@
   "anyAvailable": true,
   "tags": [
    "manteaux",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -6494,13 +6468,12 @@
   "anyAvailable": true,
   "tags": [
    "manteaux",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -6556,13 +6529,12 @@
   "anyAvailable": true,
   "tags": [
    "manteaux",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": false,
   "pattern": null,
   "season": "SS26",
@@ -6614,13 +6586,12 @@
   "tags": [
    "CAPU",
    "manteaux",
-   "SOLDES",
    "SS26",
    "travelchic"
   ],
   "climate": "all",
   "isNew": false,
-  "onSale": true,
+  "onSale": false,
   "capuPick": true,
   "pattern": null,
   "season": "SS26",
@@ -7844,7 +7815,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "ARCHIVE",
    "CAPU",
    "hauts",
    "pull",
@@ -7899,7 +7869,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "ARCHIVE",
    "hauts",
    "pull",
    "SS26",
@@ -9638,7 +9607,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "ARCHIVE",
    "CAPU",
    "chemises",
    "SS26",
@@ -9686,7 +9654,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "ARCHIVE",
    "CAPU",
    "chemises",
    "motif",
@@ -9735,7 +9702,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "ARCHIVE",
    "CAPU",
    "chemises",
    "motif",
@@ -9784,7 +9750,6 @@
   ],
   "anyAvailable": false,
   "tags": [
-   "ARCHIVE",
    "CAPU",
    "chemises",
    "motif",
@@ -9831,7 +9796,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "ARCHIVE",
    "CAPU",
    "chemises",
    "SS26",
