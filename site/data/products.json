@@ -266,121 +266,6 @@
   "formality": 2
  },
  {
-  "id": 11119434203479,
-  "title": "Ensemble Ophelia - Noddy marron",
-  "name": "Ophelia Noddy",
-  "category": "Sets",
-  "categoryFr": "Ensembles",
-  "price": 335.0,
-  "colors": [
-   "brown"
-  ],
-  "colorsFr": [
-   "marron"
-  ],
-  "description": "Total look, avec cet ensemble marron, composé du Body Ophelia + du Pantalon Cargo Noddy. Une silhouette classique et élégante, à porter au quotidien. Body Ophelia, en jersey gainant : Forme asymétrique, Coupe ajustée et près du corps, Une bretelle ornée de boules dorées signature MM. Pantalon Noddy marron : Coupe large, Forme baggy, Taille légèrement basse pour une silhouette décontractée, Fermetu",
-  "url": "https://martinmartin-paris.com/products/ensemble-ophelia-noddy-marron",
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PNODJG005_FW26BOPHJG001_8.jpg?v=1784726006",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PNODJG005_FW26BOPHJG001_3.jpg?v=1784725975",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PNODJG005_FW26BOPHJG001_6.jpg?v=1784725974",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PNODJG005_FW26BOPHJG001_2.jpg?v=1784725972"
-  ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PNODJG005_FW26BOPHJG001_8.jpg?v=1784726006",
-  "sizes": [
-   {
-    "size": "34",
-    "available": true
-   },
-   {
-    "size": "34",
-    "available": true
-   },
-   {
-    "size": "34",
-    "available": true
-   },
-   {
-    "size": "34",
-    "available": true
-   },
-   {
-    "size": "34",
-    "available": false
-   },
-   {
-    "size": "36",
-    "available": true
-   },
-   {
-    "size": "36",
-    "available": true
-   },
-   {
-    "size": "36",
-    "available": true
-   },
-   {
-    "size": "36",
-    "available": true
-   },
-   {
-    "size": "36",
-    "available": false
-   },
-   {
-    "size": "38",
-    "available": true
-   },
-   {
-    "size": "38",
-    "available": true
-   },
-   {
-    "size": "38",
-    "available": true
-   },
-   {
-    "size": "38",
-    "available": true
-   },
-   {
-    "size": "38",
-    "available": false
-   },
-   {
-    "size": "40",
-    "available": true
-   },
-   {
-    "size": "40",
-    "available": true
-   },
-   {
-    "size": "40",
-    "available": true
-   },
-   {
-    "size": "40",
-    "available": true
-   },
-   {
-    "size": "40",
-    "available": false
-   }
-  ],
-  "anyAvailable": true,
-  "tags": [],
-  "climate": "all",
-  "isNew": false,
-  "onSale": false,
-  "capuPick": false,
-  "pattern": null,
-  "season": null,
-  "occasions": [],
-  "formality": 2
- },
- {
   "id": 10996433256791,
   "title": "Robe Pamela",
   "name": "Pamela",
@@ -1905,6 +1790,10 @@
    {
     "size": "40",
     "available": true
+   },
+   {
+    "size": "42",
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -2466,8 +2355,8 @@
   "url": "https://martinmartin-paris.com/products/pull-connie-noir",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1162_BasseDef.jpg?v=1784716455",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1173_BasseDef.jpg?v=1784716462",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1191_BasseDef.jpg?v=1784716463",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1173_BasseDef.jpg?v=1784716462",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1193_BasseDef.jpg?v=1784716465"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1162_BasseDef.jpg?v=1784716455",
@@ -3038,10 +2927,6 @@
    {
     "size": "40",
     "available": true
-   },
-   {
-    "size": "42",
-    "available": false
    }
   ],
   "anyAvailable": true,
@@ -4975,7 +4860,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -5870,7 +5755,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -9745,10 +9630,10 @@
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "chemises",
@@ -9858,64 +9743,6 @@
   "isNew": false,
   "onSale": false,
   "capuPick": false,
-  "pattern": null,
-  "season": "SS26",
-  "occasions": [
-   "travel",
-   "everyday"
-  ],
-  "formality": 2
- },
- {
-  "id": 10511187870039,
-  "title": "Body Pam",
-  "name": "Pam",
-  "category": "Bodysuits",
-  "categoryFr": "Bodys",
-  "price": 170.0,
-  "colors": [],
-  "colorsFr": [],
-  "description": "- Body ajusté - Col bateau - Ouverture au dos plongeante - Bretelle à perles dorées signatureMM - Fermeture par boutons-pression à l'entrejambe",
-  "url": "https://martinmartin-paris.com/products/body-pam-noir-jersey",
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamnoir_1_def5120d-bb4d-4355-bd4b-795b23f88d30.jpg?v=1770188597",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamnoir_3_679529c7-1769-435c-8617-737dbf5b2871.jpg?v=1770188639",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamnoir_5_c3ec0614-0c71-4f30-a5d8-de1e27a116da.jpg?v=1770188639",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamnoir_4_0518cc84-1a90-45c6-ad90-433cef8f6c4e.jpg?v=1770188639",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamnoir_2_502eda17-137a-4e0b-a063-8a3d42d27ff5.jpg?v=1770188639"
-  ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamnoir_1_def5120d-bb4d-4355-bd4b-795b23f88d30.jpg?v=1770188597",
-  "sizes": [
-   {
-    "size": "34",
-    "available": false
-   },
-   {
-    "size": "36",
-    "available": false
-   },
-   {
-    "size": "38",
-    "available": false
-   },
-   {
-    "size": "40",
-    "available": false
-   }
-  ],
-  "anyAvailable": false,
-  "tags": [
-   "body",
-   "CAPU",
-   "intemporels",
-   "SS26",
-   "TOP",
-   "travelchic"
-  ],
-  "climate": "warm",
-  "isNew": false,
-  "onSale": false,
-  "capuPick": true,
   "pattern": null,
   "season": "SS26",
   "occasions": [
