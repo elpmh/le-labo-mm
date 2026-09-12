@@ -3149,7 +3149,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -4921,7 +4921,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
