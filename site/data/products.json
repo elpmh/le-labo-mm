@@ -3573,8 +3573,8 @@
   "url": "https://martinmartin-paris.com/products/body-barbara-noir",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJG001_Body_Barbara_4_4b049dcb-379e-4d6c-ab2e-d0a590199d4d.jpg?v=1784628803",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJG001_Body_Barbara_2_7a7e41c1-2913-43fe-8390-005c3ecd202c.jpg?v=1784628812",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJG001_Body_Barbara_3.jpg?v=1784628805",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJG001_Body_Barbara_2_7a7e41c1-2913-43fe-8390-005c3ecd202c.jpg?v=1784628812",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJG001_Body_Barbara_10.jpg?v=1784628809"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJG001_Body_Barbara_4_4b049dcb-379e-4d6c-ab2e-d0a590199d4d.jpg?v=1784628803",
@@ -3632,8 +3632,8 @@
   "url": "https://martinmartin-paris.com/products/top-esther-orange-marine",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26TESTJR0030_1.jpg?v=1784647101",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26TESTJR0030_2.jpg?v=1784647100",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26TESTJR0030_4.jpg?v=1784647100",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26TESTJR0030_2.jpg?v=1784647100",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26TESTJR0030.jpg?v=1784647100"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26TESTJR0030_1.jpg?v=1784647101",
@@ -3648,7 +3648,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
