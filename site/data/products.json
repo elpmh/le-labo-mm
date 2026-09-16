@@ -3137,7 +3137,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -5108,11 +5108,11 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    },
    {
     "size": "42",
-    "available": true
+    "available": false
    },
    {
     "size": "44",
@@ -5352,7 +5352,7 @@
    },
    {
     "size": "42",
-    "available": true
+    "available": false
    },
    {
     "size": "44",
@@ -6567,18 +6567,18 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "body",
    "CAPU",
@@ -8713,7 +8713,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -8737,7 +8737,7 @@
    },
    {
     "size": "42",
-    "available": true
+    "available": false
    },
    {
     "size": "42",
@@ -8761,7 +8761,7 @@
    },
    {
     "size": "44",
-    "available": true
+    "available": false
    },
    {
     "size": "44",
@@ -9728,10 +9728,10 @@
    },
    {
     "size": "2",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "chemises",
    "intemporels",
