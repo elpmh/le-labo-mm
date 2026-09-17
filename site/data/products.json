@@ -797,7 +797,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
@@ -4240,12 +4240,11 @@
   "description": "- Jean coupe flare - Taille haute - Fermeture zippée avec bouton gravé signature MM - Poches italiennes à l'avant et poches plaquées au dos - Passants de ceinture - Denim souple et confortable La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/pantalon-jules-bleu",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_11.jpg?v=1788005632",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0263_BasseDef.jpg?v=1784623387",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0277_BasseDef.jpg?v=1784623393",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0238_boycarreaumarine_jeansjules_32a17a47-c014-479f-9cb6-75070917cf7b.jpg?v=1784623421"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_11.jpg?v=1788005632",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0263_BasseDef.jpg?v=1784623387",
   "sizes": [
    {
     "size": "34",
@@ -5402,7 +5401,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -9158,7 +9157,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -9182,7 +9181,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -9206,7 +9205,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -9230,7 +9229,7 @@
    },
    {
     "size": "42",
-    "available": true
+    "available": false
    },
    {
     "size": "42",
@@ -9254,7 +9253,7 @@
    },
    {
     "size": "44",
-    "available": true
+    "available": false
    },
    {
     "size": "44",
@@ -9630,10 +9629,10 @@
    },
    {
     "size": "2",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "CAPU",
    "chemises",
