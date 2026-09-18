@@ -1292,10 +1292,10 @@
   "sizes": [
    {
     "size": "TU",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "accessoire",
    "accessoires",
@@ -3137,7 +3137,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -4226,8 +4226,8 @@
  },
  {
   "id": 10996438532439,
-  "title": "Pantalon Jules",
-  "name": "Jules",
+  "title": "Jean Jules",
+  "name": "Jean Jules",
   "category": "Trousers",
   "categoryFr": "Pantalons",
   "price": 150.0,
@@ -4248,26 +4248,26 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "Jean-coupe-flare-bleu",
@@ -6535,65 +6535,6 @@
   "pattern": "patterned",
   "season": null,
   "occasions": [],
-  "formality": 2
- },
- {
-  "id": 10511201665367,
-  "title": "Body Pam",
-  "name": "Pam",
-  "category": "Bodysuits",
-  "categoryFr": "Bodys",
-  "price": 170.0,
-  "colors": [],
-  "colorsFr": [],
-  "description": "- Body ajusté - Col bateau - Ouverture au dos plongeante - Bretelle à perles dorées signatureMM - Fermeture par boutons-pression à l'entrejambe",
-  "url": "https://martinmartin-paris.com/products/body-pam-ivoire",
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/bodypamivoire_2_2d9fd3b5-903f-45c2-873d-f13fb5f2e78d.jpg?v=1781260725",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/bodypamivoire.jpg?v=1781260724",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/bodypamivoire_1_a61841a8-661c-4b5c-800e-751616a829d5.jpg?v=1781260726",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/bodypamivoire_3_c50622b2-45cd-4554-a1a1-80020ab149e9.jpg?v=1781260725",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamivoire_4_aa104f22-ba6e-4014-afbb-246be76f44f0.jpg?v=1770189180",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamivoire_3_ea82a84b-dde1-4b2e-91e4-b9319167453f.jpg?v=1770189180",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamivoire_1_e6dc4e4b-dab7-48df-9915-60e7bb1f5bb2.jpg?v=1770189180",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamivoire_2_ab7c810b-a416-40a2-a624-d3d2df5b90f4.jpg?v=1770189180"
-  ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/bodypamivoire_2_2d9fd3b5-903f-45c2-873d-f13fb5f2e78d.jpg?v=1781260725",
-  "sizes": [
-   {
-    "size": "34",
-    "available": false
-   },
-   {
-    "size": "36",
-    "available": false
-   },
-   {
-    "size": "38",
-    "available": false
-   },
-   {
-    "size": "40",
-    "available": false
-   }
-  ],
-  "anyAvailable": false,
-  "tags": [
-   "body",
-   "CAPU",
-   "SS26",
-   "TOP",
-   "travelchic"
-  ],
-  "climate": "warm",
-  "isNew": false,
-  "onSale": false,
-  "capuPick": true,
-  "pattern": null,
-  "season": "SS26",
-  "occasions": [
-   "travel"
-  ],
   "formality": 2
  },
  {

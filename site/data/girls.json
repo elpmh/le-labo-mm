@@ -515,27 +515,6 @@
   "tier": "mid"
  },
  {
-  "name": "Jules",
-  "piece": "Pantalon Jules",
-  "category": "Trousers",
-  "categoryFr": "Pantalons",
-  "price": 150.0,
-  "colors": [
-   "blue"
-  ],
-  "colorsFr": [
-   "bleu"
-  ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0263_BasseDef.jpg?v=1784623387",
-  "url": "https://martinmartin-paris.com/products/pantalon-jules-bleu",
-  "available": false,
-  "persona": "Elle a des opinions, et un très beau pantalon. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
-  "occasion": "everyday",
-  "palette": "neutral",
-  "boldness": "quiet",
-  "tier": "mid"
- },
- {
   "name": "Julia",
   "piece": "Jupe Julia",
   "category": "Skirts",
