@@ -1,5 +1,142 @@
 [
  {
+  "id": 10387682722135,
+  "title": "Chemise Boy",
+  "name": "Boy",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 160.0,
+  "colors": [
+   "blue"
+  ],
+  "colorsFr": [
+   "bleu"
+  ],
+  "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM",
+  "url": "https://martinmartin-paris.com/products/chemise-boy-bleu",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYRS0015_FW26PJIMRS0015_6_f3dd92b0-77c5-4c9c-9c0f-f151e3766039.jpg?v=1784640336",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYRS0015_FW26PJIMRS0015_1_9cf062e7-ae28-410e-886d-37ffc64fe83a.jpg?v=1784640336",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYRS0015_FW26PJIMRS0015_2_74828622-0932-4ea3-9931-645217d77d6a.jpg?v=1784640336",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYRS0015_FW26PJIMRS0015_4_3d6a2559-4324-464e-a5e7-15b064d517c6.jpg?v=1784640336",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYRS0015_FW26PJIMRS0015_7_aea01876-94b6-42ad-b2d5-c12f08987ef0.jpg?v=1784640336",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYRS0015_FW26PJIMRS0015_d8c87e64-12f2-4cad-ad0e-63f7b8c1036e.jpg?v=1784640336"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYRS0015_FW26PJIMRS0015_6_f3dd92b0-77c5-4c9c-9c0f-f151e3766039.jpg?v=1784640336",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "Chemise - couple ample - satinée bleue",
+   "chemises",
+   "FW26",
+   "motif",
+   "NEWIN"
+  ],
+  "climate": "cold",
+  "isNew": true,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": "patterned",
+  "season": "FW26",
+  "occasions": [],
+  "formality": 2
+ },
+ {
+  "id": 10996437516631,
+  "title": "Chemise Boy",
+  "name": "Boy",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 160.0,
+  "colors": [
+   "khaki"
+  ],
+  "colorsFr": [
+   "kaki"
+  ],
+  "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
+  "url": "https://martinmartin-paris.com/products/chemise-boy-kaki-popeline-rayure-fine",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BOYRAYUREFINEKAKI.jpg?v=1784817492"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BOYRAYUREFINEKAKI.jpg?v=1784817492",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "Chemise - coupe ample - rayures kaki",
+   "chemises",
+   "FW26",
+   "NEWIN"
+  ],
+  "climate": "cold",
+  "isNew": true,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": "patterned",
+  "season": "FW26",
+  "occasions": [],
+  "formality": 2
+ },
+ {
+  "id": 10996437582167,
+  "title": "Chemise Boy",
+  "name": "Boy",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 160.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
+  "url": "https://martinmartin-paris.com/products/chemise-boy-beige-popeline-rayure-fine",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYRAYURESBEIGE_1.jpg?v=1788177471"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYRAYURESBEIGE_1.jpg?v=1788177471",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "Chemise - Coupe ample - rayures beiges",
+   "chemises",
+   "FW26",
+   "NEWIN"
+  ],
+  "climate": "cold",
+  "isNew": true,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": "patterned",
+  "season": "FW26",
+  "occasions": [],
+  "formality": 2
+ },
+ {
   "id": 10592084590935,
   "title": "Robe mini Constance",
   "name": "Constance",
@@ -241,14 +378,14 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
     "available": false
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - noire chevron",
    "chemises",
@@ -938,23 +1075,22 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-marine-popeline-rayure-fine",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_6.jpg?v=1788004326",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1421_Boyrayurefinemarine.jpg?v=1784637289",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1429_BasseDef.jpg?v=1784637394",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYPR004_2.jpg?v=1784637459"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_6.jpg?v=1788004326",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260630_MartinMartin_1421_Boyrayurefinemarine.jpg?v=1784637289",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - rayures marines",
    "chemises",
@@ -986,23 +1122,22 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-tartan-beige",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_5.jpg?v=1788004162",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0432_BasseDef.jpg?v=1784639054",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0440_BasseDef.jpg?v=1784639063",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0427_BasseDef.jpg?v=1784639044"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_5.jpg?v=1788004162",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0432_BasseDef.jpg?v=1784639054",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - tartan beige",
    "chemises",
@@ -1034,23 +1169,22 @@
   "description": "- Chemise ample - Une poche poitrine - Matière satinée - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-satinee-beige",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_1.jpg?v=1788002869",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_1.jpg?v=1784640036",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013.jpg?v=1784640040",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_2.jpg?v=1784640038"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_1.jpg?v=1788002869",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_1.jpg?v=1784640036",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "Chemise - couple ample - satinée beige",
@@ -4301,23 +4435,22 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 1",
   "url": "https://martinmartin-paris.com/products/chemise-boy-carreaux-marine",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_8.jpg?v=1788005028",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCM004_5_e98e4677-8bbf-4ff1-9779-2a127ced844d.jpg?v=1784644712",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCM004_4_d5a1b306-d6f3-4b0c-be1a-598307f88bf3.jpg?v=1784644711",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCM004_82cb4e28-6b5e-4c43-960f-7e858539ac2c.jpg?v=1784644714"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_8.jpg?v=1788005028",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCM004_5_e98e4677-8bbf-4ff1-9779-2a127ced844d.jpg?v=1784644712",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - carreaux marines",
    "chemises",
@@ -4345,23 +4478,22 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-marine-carreaux-marines",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_7.jpg?v=1788004554",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0238_boycarreaumarine_jeansjules_e7ea02ed-6f8f-427a-8264-21f40ffe2018.jpg?v=1784638593",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCM004_Carreaux_Marines..jpg?v=1784638758",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCM004_Carreaux_Marines._7.jpg?v=1784638762"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_7.jpg?v=1788004554",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0238_boycarreaumarine_jeansjules_e7ea02ed-6f8f-427a-8264-21f40ffe2018.jpg?v=1784638593",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - carreaux bleus",
    "chemises",
@@ -4393,23 +4525,22 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-tartan-noir",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_4.jpg?v=1788003947",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYTN001_Boytartannoir.jpg?v=1784639401",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYTN001_Boytartannoir_1.jpg?v=1784639395",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYTN001_Boytartannoir_4.jpg?v=1784639398"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_4.jpg?v=1788003947",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYTN001_Boytartannoir.jpg?v=1784639401",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise- coupe ample - tartan noir",
    "chemises",
@@ -4441,24 +4572,23 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-tartan-kaki",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_3.jpg?v=1788003437",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_11.jpg?v=1784639735",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_1.jpg?v=1784639718",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_9.jpg?v=1784639723",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_4.jpg?v=1784639724"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_3.jpg?v=1788003437",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_11.jpg?v=1784639735",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - tartan kaki",
    "chemises",
@@ -4490,22 +4620,21 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 1",
   "url": "https://martinmartin-paris.com/products/chemise-boy-rouge",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_2.jpg?v=1788003044",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBOYPR007.jpg?v=1784737056",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBOYPR007_1.jpg?v=1784737054"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_2.jpg?v=1788003044",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBOYPR007.jpg?v=1784737056",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "Chemise - ample - rouge",
@@ -4534,25 +4663,24 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 1",
   "url": "https://martinmartin-paris.com/products/chemise-boy-bleu-gros-carreaux",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/TEST_4.jpg?v=1788002659",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CCHAPO003_FW26CBOYGC0015_FW26PJULDE0015_5.jpg?v=1784641550",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CCHAPO003_FW26CBOYGC0015_FW26PJULDE0015.jpg?v=1784641541",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CCHAPO003_FW26CBOYGC0015_FW26PJULDE0015_1.jpg?v=1784641534",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CCHAPO003_FW26CBOYGC0015_FW26PJULDE0015_2.jpg?v=1784641535",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CCHAPO003_FW26CBOYGC0015_FW26PJULDE0015_9.jpg?v=1784641539"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/TEST_4.jpg?v=1788002659",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CCHAPO003_FW26CBOYGC0015_FW26PJULDE0015_5.jpg?v=1784641550",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "Chemise - coupe ample - carreaux bleus",
@@ -4638,24 +4766,23 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-beige-chevron",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/TEST_3_ceecba4e-0e61-4f86-b0f0-7c6b422cdacc.png?v=1787998896",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCH0013_FW26JJILCH0013_d2032c20-7a77-4e1a-a125-61bdd4d6fa3f.jpg?v=1784636662",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCH0013_FW26JJILCH0013_5_72644afe-de8f-491a-95ce-1eeb876a8aed.jpg?v=1784636659",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCH0013_FW26JJILCH0013_1_16ad3f15-6d30-4895-a3f1-edc3c509ae27.jpg?v=1784636664",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCH0013_FW26JJILCH0013_7_9d949904-5bb6-4d69-a900-3109dc7b89e9.jpg?v=1784636665"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/TEST_3_ceecba4e-0e61-4f86-b0f0-7c6b422cdacc.png?v=1787998896",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYCH0013_FW26JJILCH0013_d2032c20-7a77-4e1a-a125-61bdd4d6fa3f.jpg?v=1784636662",
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - beige chevron",
    "chemises",

@@ -133,20 +133,20 @@
   "piece": "Chemise Boy",
   "category": "Shirts",
   "categoryFr": "Chemises",
-  "price": 150.0,
+  "price": 160.0,
   "colors": [
-   "white"
+   "blue"
   ],
   "colorsFr": [
-   "blanc"
+   "bleu"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBFW26PJULDE0015_FW26CBOYPO003.jpg?v=1784737193",
-  "url": "https://martinmartin-paris.com/products/chemise-boy-blanche",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26CBOYRS0015_FW26PJIMRS0015_6_f3dd92b0-77c5-4c9c-9c0f-f151e3766039.jpg?v=1784640336",
+  "url": "https://martinmartin-paris.com/products/chemise-boy-bleu",
   "available": true,
-  "persona": "Elle retrousse ses manches et fait avancer les choses. Elle vit en crème et en ivoire, douce mais jamais fragile. Une icône du mardi — la vraie vie, bien menée.",
+  "persona": "Elle retrousse ses manches et fait avancer les choses. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
   "occasion": "everyday",
-  "palette": "light",
-  "boldness": "quiet",
+  "palette": "neutral",
+  "boldness": "bold",
   "tier": "mid"
  },
  {
