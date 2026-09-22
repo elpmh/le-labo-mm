@@ -382,7 +382,7 @@
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -2680,7 +2680,7 @@
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -7607,10 +7607,10 @@
    },
    {
     "size": "2",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "CAPU",
    "intemporels",
