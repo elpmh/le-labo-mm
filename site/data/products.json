@@ -1,5 +1,93 @@
 [
  {
+  "id": 10996433977687,
+  "title": "Gant Otto",
+  "name": "Gant Otto",
+  "category": "Accessories",
+  "categoryFr": "Accessoires",
+  "price": 40.0,
+  "colors": [
+   "brown",
+   "white"
+  ],
+  "colorsFr": [
+   "marron",
+   "blanc"
+  ],
+  "description": "- Gant en maille côtelé - 2 boutons-pression dorés signature MM",
+  "url": "https://martinmartin-paris.com/products/gant-otto-marron-blanc",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gantottomarron_2.png?v=1790588156",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gantottomarron_1.png?v=1790588157",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gantottomarron_3.png?v=1790588157"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gantottomarron_2.png?v=1790588156",
+  "sizes": [
+   {
+    "size": "TU",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "accessoire",
+   "FW26",
+   "Gant - maille - marron/blanc",
+   "NEWIN"
+  ],
+  "climate": "cold",
+  "isNew": true,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": null,
+  "season": "FW26",
+  "occasions": [],
+  "formality": 2
+ },
+ {
+  "id": 10996433944919,
+  "title": "Gant Otto",
+  "name": "Gant Otto",
+  "category": "Accessories",
+  "categoryFr": "Accessoires",
+  "price": 40.0,
+  "colors": [
+   "red"
+  ],
+  "colorsFr": [
+   "rouge"
+  ],
+  "description": "- Gant en maille côtelé - 2 boutons-pression dorés signature MM",
+  "url": "https://martinmartin-paris.com/products/gant-otto-rouge",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gantottorouge_2.png?v=1790587915",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gantottorouge_1.png?v=1790587915",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gantottorouge_3.png?v=1790587915"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gantottorouge_2.png?v=1790587915",
+  "sizes": [
+   {
+    "size": "TU",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "accessoire",
+   "FW26",
+   "gant - maille - rouge",
+   "NEWIN"
+  ],
+  "climate": "cold",
+  "isNew": true,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": null,
+  "season": "FW26",
+  "occasions": [],
+  "formality": 2
+ },
+ {
   "id": 10387682722135,
   "title": "Chemise Boy",
   "name": "Boy",
@@ -315,8 +403,11 @@
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JUPEJILLGRISE.jpg?v=1788258734",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJillgrise.png?v=1788258666",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Jupejill_1.png?v=1790590388",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJillgrise_1.png?v=1788258666",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJillgrise_2.png?v=1788258665"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Jupejill_2.png?v=1790590389",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJillgrise_2.png?v=1788258665",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Jupejill_3.png?v=1790590389"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JUPEJILLGRISE.jpg?v=1788258734",
   "sizes": [
@@ -650,7 +741,9 @@
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBFW26PJULDE0015_FW26CBOYPO003.jpg?v=1784737193",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBOYPO003_6.jpg?v=1784737193",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBOYPO003_4.jpg?v=1784737193",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBOYPO003.jpg?v=1784737193"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBOYPO003.jpg?v=1784737193",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboy_1.png?v=1790592161",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboy_2.png?v=1790592161"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJULDE0015_FW26CBFW26PJULDE0015_FW26CBOYPO003.jpg?v=1784737193",
   "sizes": [
@@ -698,7 +791,9 @@
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0820_BasseDef.jpg?v=1784737734",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0807_BasseDef.jpg?v=1784737733",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0828_BasseDef.jpg?v=1784737739"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0828_BasseDef.jpg?v=1784737739",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemisecharlie_2.png?v=1790590119",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemisecharlie_1.png?v=1790590119"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0820_BasseDef.jpg?v=1784737734",
   "sizes": [
@@ -933,6 +1028,10 @@
    },
    {
     "size": "40",
+    "available": false
+   },
+   {
+    "size": "42",
     "available": false
    }
   ],
@@ -1694,8 +1793,12 @@
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_1_ac749fa8-2126-4dfa-8615-be98cb36afae.jpg?v=1784729326",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_2_f0d82881-f5a2-4ed4-86a2-cd5f024855e3.jpg?v=1784729326",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/PantalonJimrayures_3.png?v=1790589184",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_4_54fad6f6-0168-4ca4-bffa-9589af024633.jpg?v=1784729326",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_dde186c8-fd23-4cb9-b615-ce6ea3ab2c7a.jpg?v=1784729327"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/PantalonJimrayures_4.png?v=1790589184",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_dde186c8-fd23-4cb9-b615-ce6ea3ab2c7a.jpg?v=1784729327",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/PantalonJimrayures_2.png?v=1790589184",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/PantalonJimrayures_1.png?v=1790589184"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJIMRS0013_FW26CBOYRS0013_1_ac749fa8-2126-4dfa-8615-be98cb36afae.jpg?v=1784729326",
   "sizes": [
@@ -2609,7 +2712,10 @@
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PCONMA0012_497ef4bd-3b83-4520-9998-4e2d608575e9.jpg?v=1784716102",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PCONMA0012_e82fa353-8cef-4253-bcef-082d9255295f.jpg?v=1784716104",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PCONMA0012_FW26MDIDLA0012_3068abe2-dc93-4189-8c67-7e01eb3acf40.jpg?v=1784716105"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/PullConnyCamel_1.png?v=1790589554",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PCONMA0012_FW26MDIDLA0012_3068abe2-dc93-4189-8c67-7e01eb3acf40.jpg?v=1784716105",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/PullConnycamel_2.png?v=1790589554",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/PullConnyCamel_3.png?v=1790589554"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PCONMA0012_497ef4bd-3b83-4520-9998-4e2d608575e9.jpg?v=1784716102",
   "sizes": [
@@ -3159,7 +3265,11 @@
   "url": "https://martinmartin-paris.com/products/pantalon-noddy-camel",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0595_BasseDef_75d3981d-035d-497e-b763-28bfa52d6b69.jpg?v=1784726291",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0599_BasseDef_d78106f5-0793-44f0-ba11-c9d8c47dd7ad.jpg?v=1784726291"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0599_BasseDef_d78106f5-0793-44f0-ba11-c9d8c47dd7ad.jpg?v=1784726291",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Pantalonnoddycamel_1.png?v=1790591807",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Pantalonnoddycamel_2.png?v=1790591807",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Pantalonnoddycamel_3.png?v=1790591807",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Pantalonnoddycamel_4.png?v=1790591807"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0595_BasseDef_75d3981d-035d-497e-b763-28bfa52d6b69.jpg?v=1784726291",
   "sizes": [
@@ -3547,7 +3657,9 @@
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BOPHJG002_5.jpg?v=1784733875",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BOPHJG002_9.jpg?v=1784733881",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BOPHJG002_1.jpg?v=1784733882",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BOPHJG002_7.jpg?v=1784733878"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BOPHJG002_7.jpg?v=1784733878",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodyopheliablanc_1.png?v=1790588398",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodyopheliablnac_2.png?v=1790588398"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BOPHJG002_5.jpg?v=1784733875",
   "sizes": [
@@ -3659,7 +3771,10 @@
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJR0030_9.jpg?v=1784629061",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJR0030_11.jpg?v=1784629081",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJR0030.jpg?v=1784629093"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BodyBarbara_1.png?v=1790589976",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJR0030.jpg?v=1784629093",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BodyBarbara_2.png?v=1790589977",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BodyBarbara_3.png?v=1790589977"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BBARJR0030_9.jpg?v=1784629061",
   "sizes": [
@@ -3887,7 +4002,9 @@
   "url": "https://martinmartin-paris.com/products/robe-marilyn-marron",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/MARILYNJERSEYPETITCARREAU.jpg?v=1784801810",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/MARILYNJERSEYPETITCARREAUX.jpg?v=1784801813"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/MARILYNJERSEYPETITCARREAUX.jpg?v=1784801813",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Robemarilyn_1.png?v=1790592038",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Robemarilyn_2.png?v=1790592038"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/MARILYNJERSEYPETITCARREAU.jpg?v=1784801810",
   "sizes": [
@@ -3998,8 +4115,11 @@
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RKEIRT001_Keira.jpg?v=1784559657",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RKEIRT001_Keira_10.jpg?v=1784559667",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKeira_2.png?v=1790589698",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RKEIRT001_Keira_Janice_5.jpg?v=1784559792",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RKEIRT001_Keira_Janice_6.jpg?v=1784559793"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKeira_3.png?v=1790589698",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RKEIRT001_Keira_Janice_6.jpg?v=1784559793",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKeira_1.png?v=1790589697"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RKEIRT001_Keira.jpg?v=1784559657",
   "sizes": [
@@ -4875,8 +4995,8 @@
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYCOMINGSOON_12.jpg?v=1788005786",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJEFCH0013_FW26CBOYCH0013_5.jpg?v=1784624927",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJEFCH0013_FW26CBOYCH0013_3.jpg?v=1784624923",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJEFCH0013.jpg?v=1784624930",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJEFCH0013_FW26CBOYCH0013_3.jpg?v=1784624923",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJEFCH0013_1.jpg?v=1784624921",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26PJEFCH0013_FW26CBOYCH0013_7.jpg?v=1784624932"
   ],
