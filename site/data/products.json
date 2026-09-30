@@ -909,22 +909,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "leopard",
@@ -2766,7 +2766,7 @@
   "colorsFr": [
    "noir"
   ],
-  "description": "- Veste type saharienne sans manches - Coupe droite - Col tailleur - Fermeture croisée par trois boutons dorés signature MM - Quatre poches plaquées à rabat - Ceinture amovible à nouer pour marquer la taille - Entièrement doublée La mannequin en couverture mesure 1m72 et porte une taille 1",
+  "description": "- Veste type saharienne sans manches - Coupe droite - Col tailleur - Fermeture croisée par trois boutons dorés signature MM - Quatre poches plaquées à rabat - Ceinture amovible à nouer pour marquer la taille - Entièrement doublée La mannequin en couverture mesure 1m72 et porte une taille 0",
   "url": "https://martinmartin-paris.com/products/veste-prosper-noir",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0094_vesteprosper_pantalonjamesjg.jpg?v=1784648346",
@@ -2818,7 +2818,7 @@
   "colorsFr": [
    "camel"
   ],
-  "description": "- Veste type saharienne sans manches - Coupe droite - Col tailleur - Fermeture croisée par trois boutons dorés signature MM - Quatre poches plaquées à rabat - Ceinture amovible à nouer pour marquer la taille - Entièrement doublée La mannequin en couverture mesure 1m72 et porte une taille 36.",
+  "description": "- Veste type saharienne sans manches - Coupe droite - Col tailleur - Fermeture croisée par trois boutons dorés signature MM - Quatre poches plaquées à rabat - Ceinture amovible à nouer pour marquer la taille - Entièrement doublée La mannequin en couverture mesure 1m72 et porte une taille 0.",
   "url": "https://martinmartin-paris.com/products/veste-prosper-camel",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0179_BasseDef.jpg?v=1784647772",
@@ -4346,26 +4346,26 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "Pantalon",
@@ -4400,22 +4400,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "manteaux",
@@ -4455,22 +4455,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "manteaux",
@@ -4943,11 +4943,11 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -4955,14 +4955,14 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
     "available": false
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "FW26",
@@ -5005,26 +5005,26 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "Pantalon",
@@ -5656,7 +5656,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -7275,7 +7275,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
@@ -9353,7 +9353,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -9377,7 +9377,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -9401,7 +9401,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -9425,7 +9425,7 @@
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
@@ -9449,7 +9449,7 @@
    },
    {
     "size": "44",
-    "available": false
+    "available": true
    },
    {
     "size": "44",
