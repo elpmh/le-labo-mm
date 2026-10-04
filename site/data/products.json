@@ -3387,11 +3387,11 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -4689,9 +4689,9 @@
   "url": "https://martinmartin-paris.com/products/chemise-boy-tartan-kaki",
   "images": [
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_11.jpg?v=1784639735",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_4.jpg?v=1784639724",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_1.jpg?v=1784639718",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_9.jpg?v=1784639723",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_4.jpg?v=1784639724"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_9.jpg?v=1784639723"
   ],
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26JJULJG005_FW26CBOYTK005_11.jpg?v=1784639735",
   "sizes": [
