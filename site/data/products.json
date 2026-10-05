@@ -413,22 +413,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "Jupe",
@@ -928,6 +928,7 @@
    "FW26",
    "leopard",
    "manteau",
+   "manteaux",
    "Veste",
    "Veste-courte-leopard"
   ],
@@ -1079,22 +1080,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "Jupe",
@@ -1130,22 +1131,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
     "available": false
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "FW26",
@@ -1531,10 +1532,10 @@
   "sizes": [
    {
     "size": "TU",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "accessoire",
    "accessoires",
@@ -1627,22 +1628,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "Jupe",
@@ -4451,7 +4452,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -4947,7 +4948,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -4955,7 +4956,7 @@
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -9673,7 +9674,7 @@
   "sizes": [
    {
     "size": "1",
-    "available": true
+    "available": false
    },
    {
     "size": "2",
