@@ -308,7 +308,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "cocktail dress",
    "Robe",
    "SS26"
@@ -316,7 +315,7 @@
   "climate": "all",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -1095,6 +1094,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "CAPU",
    "FW26",
    "Jupe",
    "Jupe-courte - drapée - beige"
@@ -1102,7 +1102,7 @@
   "climate": "cold",
   "isNew": false,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": null,
   "season": "FW26",
   "occasions": [],
@@ -1488,6 +1488,7 @@
   "tags": [
    "accessoire",
    "accessoires",
+   "CAPU",
    "Chausette - maille côtelé - rouge",
    "FW26",
    "NEWIN"
@@ -1495,7 +1496,7 @@
   "climate": "cold",
   "isNew": true,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": null,
   "season": "FW26",
   "occasions": [],
@@ -1697,6 +1698,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "CAPU",
    "FW26",
    "leopard",
    "NEWIN",
@@ -1706,7 +1708,7 @@
   "climate": "all",
   "isNew": true,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": "patterned",
   "season": "FW26",
   "occasions": [],
@@ -3022,6 +3024,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "CAPU",
    "FW26",
    "Manteau - oversize - camel",
    "manteaux",
@@ -3030,7 +3033,7 @@
   "climate": "cold",
   "isNew": true,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": null,
   "season": "FW26",
   "occasions": [],
@@ -3448,11 +3451,11 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
@@ -4023,6 +4026,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "CAPU",
    "FW26",
    "NEWIN",
    "robe",
@@ -4031,7 +4035,7 @@
   "climate": "cold",
   "isNew": true,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": null,
   "season": "FW26",
   "occasions": [],
@@ -4138,6 +4142,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "CAPU",
    "FW26",
    "NEWIN",
    "robe",
@@ -4146,7 +4151,7 @@
   "climate": "cold",
   "isNew": true,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": null,
   "season": "FW26",
   "occasions": [],
@@ -4897,6 +4902,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "CAPU",
    "Chemise - coupe ample - beige chevron",
    "chemises",
    "FW26",
@@ -4906,7 +4912,7 @@
   "climate": "cold",
   "isNew": true,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": "patterned",
   "season": "FW26",
   "occasions": [],
@@ -5184,7 +5190,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "intemporels",
    "Robe",
    "SS26",
@@ -5193,7 +5198,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -5607,7 +5612,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "Pantalon",
    "SS26",
    "travelchic"
@@ -5615,7 +5619,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -6237,7 +6241,6 @@
   ],
   "anyAvailable": false,
   "tags": [
-   "CAPU",
    "Robe",
    "SS26",
    "travelchic"
@@ -6245,7 +6248,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -6715,7 +6718,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "manteaux",
    "SS26",
    "travelchic"
@@ -6723,7 +6725,7 @@
   "climate": "all",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -6873,7 +6875,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "cocktail dress",
    "eshop",
    "Robe",
@@ -6883,7 +6884,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": "patterned",
   "season": "SS26",
   "occasions": [
@@ -7047,13 +7048,12 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "SS26"
   ],
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": "patterned",
   "season": "SS26",
   "occasions": [],
@@ -7224,14 +7224,13 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "jupe",
    "SS26"
   ],
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [],
@@ -7273,7 +7272,6 @@
   "anyAvailable": true,
   "tags": [
    "body",
-   "CAPU",
    "intemporels",
    "SS26",
    "TOP"
@@ -7281,7 +7279,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -7584,7 +7582,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "ceremonie",
    "Robe",
    "SS26"
@@ -7592,7 +7589,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -7681,14 +7678,13 @@
   "anyAvailable": true,
   "tags": [
    "body",
-   "CAPU",
    "SS26",
    "TOP"
   ],
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [],
@@ -7725,7 +7721,6 @@
   ],
   "anyAvailable": false,
   "tags": [
-   "CAPU",
    "intemporels",
    "Robe",
    "SS26"
@@ -7733,7 +7728,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -7779,7 +7774,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "ceremonie",
    "cocktail dress",
    "Robe",
@@ -7788,7 +7782,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -7998,14 +7992,13 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "Robe",
    "SS26"
   ],
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [],
@@ -8120,7 +8113,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "ceremonie",
    "cocktail dress",
    "Robe",
@@ -8129,7 +8121,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [
@@ -8566,7 +8558,6 @@
   ],
   "anyAvailable": false,
   "tags": [
-   "CAPU",
    "hauts",
    "SS26",
    "TOP"
@@ -8574,7 +8565,7 @@
   "climate": "warm",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": null,
   "season": "SS26",
   "occasions": [],
@@ -9679,7 +9670,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "chemises",
    "SS26",
    "TOP",
@@ -9689,7 +9679,7 @@
   "climate": "all",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": "plain",
   "season": "SS26",
   "occasions": [
@@ -9774,7 +9764,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "chemises",
    "motif",
    "SS26",
@@ -9784,7 +9773,7 @@
   "climate": "all",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": "patterned",
   "season": "SS26",
   "occasions": [
@@ -9822,7 +9811,6 @@
   ],
   "anyAvailable": false,
   "tags": [
-   "CAPU",
    "chemises",
    "motif",
    "SS26",
@@ -9831,7 +9819,7 @@
   "climate": "all",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": "patterned",
   "season": "SS26",
   "occasions": [
@@ -9868,7 +9856,6 @@
   ],
   "anyAvailable": true,
   "tags": [
-   "CAPU",
    "chemises",
    "SS26",
    "travelchic",
@@ -9877,7 +9864,7 @@
   "climate": "all",
   "isNew": false,
   "onSale": false,
-  "capuPick": true,
+  "capuPick": false,
   "pattern": "plain",
   "season": "SS26",
   "occasions": [
