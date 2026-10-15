@@ -1,5 +1,69 @@
 [
  {
+  "id": 11280844685655,
+  "title": "Ensemble Boy-Jim",
+  "name": "Boy-Jim",
+  "category": "Sets",
+  "categoryFr": "Ensembles",
+  "price": 330.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "Total look avec cet ensemble en satin à rayures beiges, composé de la Chemise Boy et du Pantalon Jim. La coupe ample de la chemise, rehaussée de boutons dorés signature Martin Martin, s’associe à la coupe droite du pantalon pour une silhouette fluide et décontractée. Un ensemble élégant à porter au quotidien comme en soirée, chemise rentrée ou laissée libre selon vos envies.",
+  "url": "https://martinmartin-paris.com/products/ensemble-boy-jim",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/1_90587bf6-6af1-4051-bbac-c4159517fc35.png?v=1792052766",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/3_25f71480-8c9a-4f26-a552-daaa28a50471.png?v=1792052767",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/2_da161c95-4290-4505-8aaf-eeea5e731c30.png?v=1792052766"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/1_90587bf6-6af1-4051-bbac-c4159517fc35.png?v=1792052766",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "CAPU"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": true,
+  "pattern": "patterned",
+  "season": null,
+  "occasions": [],
+  "formality": 2
+ },
+ {
   "id": 10996433977687,
   "title": "Gant Otto",
   "name": "Gant Otto",
@@ -467,7 +531,7 @@
   "sizes": [
    {
     "size": "1",
-    "available": true
+    "available": false
    },
    {
     "size": "2",
@@ -1481,10 +1545,10 @@
   "sizes": [
    {
     "size": "TU",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "accessoire",
    "accessoires",
@@ -10085,7 +10149,7 @@
    },
    {
     "size": "I",
-    "available": true
+    "available": false
    },
    {
     "size": "J",
