@@ -3228,7 +3228,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -3507,7 +3507,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -3787,7 +3787,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
