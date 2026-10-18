@@ -535,10 +535,10 @@
    },
    {
     "size": "2",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "Chemise - coupe ample - noire chevron",
    "chemises",
@@ -2617,7 +2617,7 @@
    },
    {
     "size": "S",
-    "available": true
+    "available": false
    },
    {
     "size": "M",
@@ -3451,22 +3451,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "BODY",
    "Body - Dos nu - noir",
@@ -4253,10 +4253,10 @@
    },
    {
     "size": "2",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "FW26",
    "hauts",
@@ -5241,7 +5241,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -7633,7 +7633,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
