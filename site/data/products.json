@@ -5,15 +5,16 @@
   "name": "Céline Dion Ticket d'or",
   "category": "Other",
   "categoryFr": "Autres",
-  "price": 1000.0,
+  "price": 1.0,
   "colors": [],
   "colorsFr": [],
-  "description": "Validation de votre participation au concours Ticket d'or - Pour gagner une place au concert de Céline Dion",
+  "description": "Validation de votre participation au concours Ticket d'or - Pour gagner une place au concert de Céline Dion règle de participation : https://martinmartin-paris.com/pages/ticket-dor-concours",
   "url": "https://martinmartin-paris.com/products/celine-dion-ticket-dor",
   "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ticket-dor-1x1-light.png?v=1792614366",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/HOME_PAGE_4.jpg?v=1791994319"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/HOME_PAGE_4.jpg?v=1791994319",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ticket-dor-1x1-light.png?v=1792614366",
   "sizes": [
    {
     "size": "Default Title",
@@ -6373,7 +6374,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
