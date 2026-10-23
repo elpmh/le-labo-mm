@@ -8,13 +8,13 @@
   "price": 1.0,
   "colors": [],
   "colorsFr": [],
-  "description": "Validation de votre participation au concours Ticket d'or - Pour gagner une place au concert de Céline Dion règle de participation : https://martinmartin-paris.com/pages/ticket-dor-concours",
+  "description": "Validez votre participation au concours Ticket d'or. Gagnez 2 places au concert de Céline Dion + 1 nuit d'hotel Règles de participation",
   "url": "https://martinmartin-paris.com/products/celine-dion-ticket-dor",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ticket-dor-1x1-light.png?v=1792614366",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ticket-or_fiche-produit_A-mecanique_fond-blanc.jpg?v=1792709764",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/HOME_PAGE_4.jpg?v=1791994319"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ticket-dor-1x1-light.png?v=1792614366",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ticket-or_fiche-produit_A-mecanique_fond-blanc.jpg?v=1792709764",
   "sizes": [
    {
     "size": "Default Title",
@@ -2061,7 +2061,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -2120,7 +2120,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -3257,11 +3257,11 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -3548,7 +3548,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -6618,7 +6618,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -8126,7 +8126,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -9100,7 +9100,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -9108,19 +9108,19 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -9433,23 +9433,23 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
