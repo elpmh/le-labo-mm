@@ -568,10 +568,10 @@
    },
    {
     "size": "2",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "Chemise - coupe ample - noire chevron",
    "chemises",
@@ -4994,10 +4994,10 @@
    },
    {
     "size": "2",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "CAPU",
    "Chemise - coupe ample - beige chevron",
@@ -5158,11 +5158,11 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
