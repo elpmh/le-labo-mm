@@ -1123,11 +1123,11 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -2005,22 +2005,22 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Blouse - épaulettes - noire",
    "FW26",
@@ -4282,14 +4282,14 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "hauts",
