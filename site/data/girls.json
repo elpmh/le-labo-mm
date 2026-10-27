@@ -651,8 +651,8 @@
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/MARILYNJERSEYPETITCARREAU.jpg?v=1784801810",
   "url": "https://martinmartin-paris.com/products/robe-marilyn-marron",
   "available": true,
-  "persona": "Elle entre dans une pièce sans hausser la voix. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
-  "occasion": "everyday",
+  "persona": "Elle entre dans une pièce sans hausser la voix. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. On la croise à la cérémonie, au cocktail, à l'after.",
+  "occasion": "event",
   "palette": "dark",
   "boldness": "quiet",
   "tier": "investment"
@@ -710,8 +710,8 @@
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BOPHJG001_Ophelia_4.jpg?v=1784734173",
   "url": "https://martinmartin-paris.com/products/body-ophelia-noir",
   "available": true,
-  "persona": "Elle construit chaque tenue depuis la base. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
-  "occasion": "everyday",
+  "persona": "Elle construit chaque tenue depuis la base. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. On la croise à la cérémonie, au cocktail, à l'after.",
+  "occasion": "event",
   "palette": "dark",
   "boldness": "quiet",
   "tier": "mid"
@@ -752,8 +752,8 @@
   "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26RPAMJG002_9_61356410-97e5-4f18-b5c8-81f38a083ddc.jpg?v=1784717438",
   "url": "https://martinmartin-paris.com/products/robe-pamela-ivoire",
   "available": true,
-  "persona": "Elle dit oui, et improvise le reste. Elle vit en crème et en ivoire, douce mais jamais fragile. Une icône du mardi — la vraie vie, bien menée.",
-  "occasion": "everyday",
+  "persona": "Elle dit oui, et improvise le reste. Elle vit en crème et en ivoire, douce mais jamais fragile. On la croise à la cérémonie, au cocktail, à l'after.",
+  "occasion": "event",
   "palette": "light",
   "boldness": "quiet",
   "tier": "investment"

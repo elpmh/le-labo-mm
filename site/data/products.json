@@ -251,9 +251,11 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-kaki-popeline-rayure-fine",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BOYRAYUREFINEKAKI.jpg?v=1784817492"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYKAKI_1.png?v=1793025841",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYKAKI_2.png?v=1793026227",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYKAKI_3.png?v=1793026227"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BOYRAYUREFINEKAKI.jpg?v=1784817492",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYKAKI_1.png?v=1793025841",
   "sizes": [
    {
     "size": "1",
@@ -292,9 +294,10 @@
   "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM La mannequin en couverture mesure 1m72 et porte une taille 36.",
   "url": "https://martinmartin-paris.com/products/chemise-boy-beige-popeline-rayure-fine",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYRAYURESBEIGE_1.jpg?v=1788177471"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOY_RAYUREBEIGE.png?v=1793101136",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOY_RAYUREBEIGE_1.png?v=1793101135"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOYRAYURESBEIGE_1.jpg?v=1788177471",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CHEMISEBOY_RAYUREBEIGE.png?v=1793101136",
   "sizes": [
    {
     "size": "1",
@@ -629,6 +632,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "cocktail dress",
    "FW26",
    "NEWIN",
    "robe",
@@ -640,8 +644,10 @@
   "capuPick": false,
   "pattern": null,
   "season": "FW26",
-  "occasions": [],
-  "formality": 3
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
  },
  {
   "id": 10996433224023,
@@ -1796,6 +1802,7 @@
   "anyAvailable": true,
   "tags": [
    "CAPU",
+   "cocktail dress",
    "FW26",
    "leopard",
    "NEWIN",
@@ -1808,8 +1815,10 @@
   "capuPick": true,
   "pattern": "patterned",
   "season": "FW26",
-  "occasions": [],
-  "formality": 3
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
  },
  {
   "id": 10996432666967,
@@ -2714,7 +2723,7 @@
    },
    {
     "size": "L",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
@@ -3447,6 +3456,7 @@
   "tags": [
    "BODY",
    "Body - marron - dos nu",
+   "cocktail dress",
    "FW26",
    "NEWIN"
   ],
@@ -3456,8 +3466,10 @@
   "capuPick": false,
   "pattern": null,
   "season": "FW26",
-  "occasions": [],
-  "formality": 2
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
  },
  {
   "id": 10252175933783,
@@ -3616,6 +3628,7 @@
    "BODY",
    "Body - Dos nu - kaki",
    "CAPU",
+   "cocktail dress",
    "FW26",
    "NEWIN"
   ],
@@ -3625,8 +3638,10 @@
   "capuPick": true,
   "pattern": null,
   "season": "FW26",
-  "occasions": [],
-  "formality": 2
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
  },
  {
   "id": 11033115722071,
@@ -3667,6 +3682,7 @@
   "tags": [
    "BODY",
    "CAPU",
+   "cocktail dress",
    "FW26",
    "NEWIN"
   ],
@@ -3676,8 +3692,10 @@
   "capuPick": true,
   "pattern": null,
   "season": "FW26",
-  "occasions": [],
-  "formality": 2
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
  },
  {
   "id": 10996431978839,
@@ -3722,6 +3740,7 @@
   "tags": [
    "BODY",
    "Body - col rond - noir",
+   "cocktail dress",
    "FW26",
    "NEWIN"
   ],
@@ -3731,8 +3750,10 @@
   "capuPick": false,
   "pattern": null,
   "season": "FW26",
-  "occasions": [],
-  "formality": 2
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
  },
  {
   "id": 10996432011607,
@@ -3953,6 +3974,7 @@
    "BODY",
    "Body - échancré - noir",
    "CAPU",
+   "cocktail dress",
    "FW26",
    "NEWIN"
   ],
@@ -3962,8 +3984,10 @@
   "capuPick": true,
   "pattern": null,
   "season": "FW26",
-  "occasions": [],
-  "formality": 2
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
  },
  {
   "id": 10996436828503,
@@ -4124,6 +4148,7 @@
   "anyAvailable": true,
   "tags": [
    "CAPU",
+   "cocktail dress",
    "FW26",
    "NEWIN",
    "robe",
@@ -4135,8 +4160,10 @@
   "capuPick": true,
   "pattern": null,
   "season": "FW26",
-  "occasions": [],
-  "formality": 3
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
  },
  {
   "id": 10996433125719,
@@ -7680,6 +7707,7 @@
   "anyAvailable": true,
   "tags": [
    "ceremonie",
+   "cocktail dress",
    "Robe",
    "SS26"
   ],
