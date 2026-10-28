@@ -3266,7 +3266,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -6182,7 +6182,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
