@@ -112,23 +112,6 @@
   "tier": "mid"
  },
  {
-  "name": "Bonnie",
-  "piece": "Jupe Bonnie",
-  "category": "Skirts",
-  "categoryFr": "Jupes",
-  "price": 120.0,
-  "colors": [],
-  "colorsFr": [],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Jupebonniedentelle_1.jpg?v=1781098824",
-  "url": "https://martinmartin-paris.com/products/jupe-bonnie-pois",
-  "available": true,
-  "persona": "Romantique en haut, pragmatique en bas. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
-  "occasion": "everyday",
-  "palette": "neutral",
-  "boldness": "quiet",
-  "tier": "accessible"
- },
- {
   "name": "Boy",
   "piece": "Chemise Boy",
   "category": "Shirts",
@@ -241,23 +224,6 @@
   "palette": "bold",
   "boldness": "bold",
   "tier": "mid"
- },
- {
-  "name": "Constance",
-  "piece": "Robe mini Constance",
-  "category": "Dresses",
-  "categoryFr": "Robes",
-  "price": 250.0,
-  "colors": [],
-  "colorsFr": [],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Robeminiconstanceglacier_1.jpg?v=1772456077",
-  "url": "https://martinmartin-paris.com/products/robe-mini-constance-glacier",
-  "available": true,
-  "persona": "Elle a sa robe parfaite, et la porte partout. Elle reste dans les tons et laisse la coupe s'exprimer. On la croise à la cérémonie, au cocktail, à l'after.",
-  "occasion": "event",
-  "palette": "neutral",
-  "boldness": "quiet",
-  "tier": "investment"
  },
  {
   "name": "Didier",
@@ -397,23 +363,6 @@
   "tier": "investment"
  },
  {
-  "name": "Gloria",
-  "piece": "Robe Gloria",
-  "category": "Dresses",
-  "categoryFr": "Robes",
-  "price": 285.0,
-  "colors": [],
-  "colorsFr": [],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260527_MartinMartin_1580.jpg?v=1783676831",
-  "url": "https://martinmartin-paris.com/products/robe-gloria-a-pois",
-  "available": true,
-  "persona": "Elle entre dans une pièce sans hausser la voix. Elle reste dans les tons et laisse la coupe s'exprimer. On la croise à la cérémonie, au cocktail, à l'after.",
-  "occasion": "event",
-  "palette": "neutral",
-  "boldness": "bold",
-  "tier": "investment"
- },
- {
   "name": "James",
   "piece": "Pantalon James",
   "category": "Trousers",
@@ -498,23 +447,6 @@
   "tier": "mid"
  },
  {
-  "name": "Jo",
-  "piece": "Jupe Jo",
-  "category": "Skirts",
-  "categoryFr": "Jupes",
-  "price": 145.0,
-  "colors": [],
-  "colorsFr": [],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Jorayures_2.jpg?v=1781100943",
-  "url": "https://martinmartin-paris.com/products/jupe-jo-marine-blanc",
-  "available": true,
-  "persona": "Elle s'habille pour la journée qu'elle a décidé d'avoir. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
-  "occasion": "everyday",
-  "palette": "neutral",
-  "boldness": "quiet",
-  "tier": "mid"
- },
- {
   "name": "Julia",
   "piece": "Jupe Julia",
   "category": "Skirts",
@@ -553,23 +485,6 @@
   "persona": "Elle entre dans une pièce sans hausser la voix. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
   "occasion": "everyday",
   "palette": "dark",
-  "boldness": "quiet",
-  "tier": "investment"
- },
- {
-  "name": "Kylie",
-  "piece": "Robe Kylie",
-  "category": "Dresses",
-  "categoryFr": "Robes",
-  "price": 290.0,
-  "colors": [],
-  "colorsFr": [],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKylienoir_4.jpg?v=1772445544",
-  "url": "https://martinmartin-paris.com/products/robe-kylie-noir",
-  "available": true,
-  "persona": "Elle entre dans une pièce sans hausser la voix. Elle reste dans les tons et laisse la coupe s'exprimer. On la croise à la cérémonie, au cocktail, à l'after.",
-  "occasion": "event",
-  "palette": "neutral",
   "boldness": "quiet",
   "tier": "investment"
  },
@@ -780,23 +695,6 @@
   "tier": "mid"
  },
  {
-  "name": "Roma",
-  "piece": "Robe Roma",
-  "category": "Dresses",
-  "categoryFr": "Robes",
-  "price": 165.0,
-  "colors": [],
-  "colorsFr": [],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/roberomarayures_3.jpg?v=1780647698",
-  "url": "https://martinmartin-paris.com/products/robe-roma-rayures",
-  "available": false,
-  "persona": "Elle entre dans une pièce sans hausser la voix. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
-  "occasion": "everyday",
-  "palette": "neutral",
-  "boldness": "quiet",
-  "tier": "mid"
- },
- {
   "name": "Romane",
   "piece": "Body Romane",
   "category": "Bodysuits",
@@ -850,27 +748,6 @@
   "palette": "bold",
   "boldness": "bold",
   "tier": "mid"
- },
- {
-  "name": "Tonia",
-  "piece": "Robe Tonia noir",
-  "category": "Dresses",
-  "categoryFr": "Robes",
-  "price": 230.0,
-  "colors": [
-   "black"
-  ],
-  "colorsFr": [
-   "noir"
-  ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FICHEPRODUITSS26_2.jpg?v=1772488685",
-  "url": "https://martinmartin-paris.com/products/robe-tonia-noir",
-  "available": true,
-  "persona": "Elle entre dans une pièce sans hausser la voix. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. On la croise à la cérémonie, au cocktail, à l'after.",
-  "occasion": "event",
-  "palette": "dark",
-  "boldness": "quiet",
-  "tier": "investment"
  },
  {
   "name": "Twig",
