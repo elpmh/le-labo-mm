@@ -599,15 +599,19 @@
   "category": "Trousers",
   "categoryFr": "Pantalons",
   "price": 165.0,
-  "colors": [],
-  "colorsFr": [],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/40_b8dbbc0c-b329-48fd-9922-64bdf12f688a.jpg?v=1788189810",
-  "url": "https://martinmartin-paris.com/products/pantalon-noddy-marron-jersey-petit-carreaux",
+  "colors": [
+   "brown"
+  ],
+  "colorsFr": [
+   "marron"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/25.jpg?v=1788011492",
+  "url": "https://martinmartin-paris.com/products/pantalon-noddy-marron",
   "available": true,
-  "persona": "Elle marche vite et prend les escaliers. Elle reste dans les tons et laisse la coupe s'exprimer. Une icône du mardi — la vraie vie, bien menée.",
+  "persona": "Elle marche vite et prend les escaliers. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
   "occasion": "everyday",
-  "palette": "neutral",
-  "boldness": "bold",
+  "palette": "dark",
+  "boldness": "quiet",
   "tier": "mid"
  },
  {
