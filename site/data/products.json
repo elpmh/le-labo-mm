@@ -1,5 +1,48 @@
 [
  {
+  "id": 10996433912151,
+  "title": "Gant Otto",
+  "name": "Gant Otto",
+  "category": "Accessories",
+  "categoryFr": "Accessoires",
+  "price": 40.0,
+  "colors": [
+   "yellow"
+  ],
+  "colorsFr": [
+   "jaune"
+  ],
+  "description": "- Gant en maille côtelé - 2 boutons-pression dorés signature MM",
+  "url": "https://martinmartin-paris.com/products/gant-otto-jaune",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gant_Otto_Face_Jaune.png?v=1793631770",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gant_OTTO_Dos_Jaune.png?v=1793631827",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gant_OTTO_Rapproch_Jaune.png?v=1793631789"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Gant_Otto_Face_Jaune.png?v=1793631770",
+  "sizes": [
+   {
+    "size": "TU",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "accessoire",
+   "FW26",
+   "Gant - maille - jaune",
+   "NEWIN"
+  ],
+  "climate": "cold",
+  "isNew": true,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": null,
+  "season": "FW26",
+  "occasions": [],
+  "formality": 2
+ },
+ {
   "id": 11280844685655,
   "title": "Ensemble Boy-Jim",
   "name": "Boy-Jim",
@@ -238,6 +281,7 @@
    "Chemise - coupe ample - rayures kaki",
    "chemises",
    "FW26",
+   "motif",
    "NEWIN"
   ],
   "climate": "cold",
@@ -280,6 +324,7 @@
    "Chemise - Coupe ample - rayures beiges",
    "chemises",
    "FW26",
+   "motif",
    "NEWIN"
   ],
   "climate": "cold",
@@ -5986,7 +6031,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
