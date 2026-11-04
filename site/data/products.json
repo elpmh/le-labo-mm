@@ -1,5 +1,290 @@
 [
  {
+  "id": 11357257597271,
+  "title": "Ensemble Jill - Boy",
+  "name": "Jill Boy",
+  "category": "Sets",
+  "categoryFr": "Ensembles",
+  "price": 330.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "Total look avec cet ensemble en chevron beige, composé de la Chemise Boy et de la Jupe Jill. La coupe ample de la chemise, rehaussée de boutons dorés signature Martin Martin, s’associe à la coupe droite de la Jupe pour une silhouette fluide et décontractée. Un ensemble élégant à porter au quotidien comme en soirée, chemise rentrée ou laissée libre selon vos envies.",
+  "url": "https://martinmartin-paris.com/products/ensemble-jill-boy-1",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJilletBoychevronbeige.png?v=1793723717",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJilletBoytartannoir_2_cea5c5e7-e127-431a-8f64-e1f6048b3e1d.png?v=1793723700",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJilletBoychevronbeige_1.png?v=1793723735"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJilletBoychevronbeige.png?v=1793723717",
+  "sizes": [
+   {
+    "size": "34",
+    "available": false
+   },
+   {
+    "size": "34",
+    "available": false
+   },
+   {
+    "size": "36",
+    "available": false
+   },
+   {
+    "size": "36",
+    "available": false
+   },
+   {
+    "size": "38",
+    "available": false
+   },
+   {
+    "size": "38",
+    "available": false
+   },
+   {
+    "size": "40",
+    "available": false
+   },
+   {
+    "size": "40",
+    "available": false
+   }
+  ],
+  "anyAvailable": false,
+  "tags": [],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": null,
+  "season": null,
+  "occasions": [],
+  "formality": 2
+ },
+ {
+  "id": 11357412491607,
+  "title": "Ensemble Lili-Jim",
+  "name": "Lili-Jim",
+  "category": "Sets",
+  "categoryFr": "Ensembles",
+  "price": 195.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "Total look avec cet ensemble en maille grise, composé du top Lili et du Pantalon Jim. La coupe ample du top, rehaussée de boutons dorés signature Martin Martin, s’associe à la coupe droite du pantalon pour une silhouette fluide et décontractée. Un ensemble élégant et confortable à porter au quotidien.",
+  "url": "https://martinmartin-paris.com/products/ensemble-lili-jim-1",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Top_Lili_-_Pantalon_Jim_3.png?v=1793725355",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/TopLili-PantalonJim_2.png?v=1793725319",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/TopLili-PantalonJim_2_8c55ee79-9969-4127-a56a-1f4d41735eef.png?v=1793725336"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Top_Lili_-_Pantalon_Jim_3.png?v=1793725355",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": null,
+  "season": null,
+  "occasions": [],
+  "formality": 2
+ },
+ {
+  "id": 11357353083223,
+  "title": "Ensemble Lili - Jim",
+  "name": "Lili Jim",
+  "category": "Sets",
+  "categoryFr": "Ensembles",
+  "price": 195.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "Total look avec cet ensemble en maille ivoire, composé du top Lili et du Pantalon Jim. La coupe ample du top, rehaussée de boutons dorés signature Martin Martin, s’associe à la coupe droite du pantalon pour une silhouette fluide et décontractée. Un ensemble élégant et confortable à porter au quotidien avec ça matière en effet duvet.",
+  "url": "https://martinmartin-paris.com/products/ensemble-lili-jim",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/TopLili-PantalonJim.png?v=1793724760",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Top_Lili_-_Pantalon_Jim.png?v=1793724796",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Top_Lili_-_Pantalon_Jim_1.png?v=1793724811"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/TopLili-PantalonJim.png?v=1793724760",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "CAPU"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": true,
+  "pattern": null,
+  "season": null,
+  "occasions": [],
+  "formality": 2
+ },
+ {
+  "id": 11357055680855,
+  "title": "Ensemble Jill - Boy",
+  "name": "Jill Boy",
+  "category": "Sets",
+  "categoryFr": "Ensembles",
+  "price": 330.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "Total look avec cet ensemble en drapée tartan noir , composé de la Chemise Boy et de la Jupe Jill. La coupe ample de la chemise, rehaussée de boutons dorés signature Martin Martin, s’associe à la coupe droite de la jupe pour une silhouette fluide et décontractée. Un ensemble élégant à porter au quotidien comme en soirée, chemise rentrée ou laissée libre selon vos envies.",
+  "url": "https://martinmartin-paris.com/products/ensemble-jill-boy",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJilletBoytartannoir.png?v=1793722054",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Jupe_Jill_et_Boy_tartan_noir.png?v=1793722081",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Jupe_Jill_et_Boy_tartan_noir_1.png?v=1793722094"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/JupeJilletBoytartannoir.png?v=1793722054",
+  "sizes": [
+   {
+    "size": "34",
+    "available": false
+   },
+   {
+    "size": "34",
+    "available": true
+   },
+   {
+    "size": "36",
+    "available": false
+   },
+   {
+    "size": "36",
+    "available": true
+   },
+   {
+    "size": "38",
+    "available": false
+   },
+   {
+    "size": "38",
+    "available": true
+   },
+   {
+    "size": "40",
+    "available": false
+   },
+   {
+    "size": "40",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "CAPU"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": true,
+  "pattern": "patterned",
+  "season": null,
+  "occasions": [],
+  "formality": 2
+ },
+ {
+  "id": 11356889350487,
+  "title": "Ensemble Boy - Jim",
+  "name": "Boy Jim",
+  "category": "Sets",
+  "categoryFr": "Ensembles",
+  "price": 330.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "Total look avec cet ensemble en satin à rayures bleu marine, composé de la Chemise Boy et du Pantalon Jim. La coupe ample de la chemise, rehaussée de boutons dorés signature Martin Martin, s’associe à la coupe droite du pantalon pour une silhouette fluide et décontractée. Un ensemble élégant à porter au quotidien comme en soirée, chemise rentrée ou laissée libre selon vos envies.",
+  "url": "https://martinmartin-paris.com/products/ensemble-boy-jim-1",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/EnsembleJim_Boy.png?v=1793717942",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Ensemble_Jim_Boy_ray_e_bleu.png?v=1793718034",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Ensemble_Jim_Boy_raye_bleu.png?v=1793718053",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Ensemble_Jim_Boy_raye_et_bleu.png?v=1793718070"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/EnsembleJim_Boy.png?v=1793717942",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "CAPU"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": true,
+  "pattern": "patterned",
+  "season": null,
+  "occasions": [],
+  "formality": 2
+ },
+ {
   "id": 10996433912151,
   "title": "Gant Otto",
   "name": "Gant Otto",
@@ -1922,7 +2207,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -1937,7 +2222,7 @@
     "available": false
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "NEWIN",
@@ -1981,7 +2266,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -3122,7 +3407,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -3133,7 +3418,7 @@
     "available": false
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "NEWIN",
@@ -3244,7 +3529,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -3412,7 +3697,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -3693,7 +3978,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -6387,7 +6672,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -6992,27 +7277,27 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
