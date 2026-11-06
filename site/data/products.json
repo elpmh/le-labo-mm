@@ -716,13 +716,14 @@
    "Chemise - coupe ample - noire chevron",
    "chemises",
    "FW26",
+   "motif",
    "NEWIN"
   ],
   "climate": "cold",
   "isNew": true,
   "onSale": false,
   "capuPick": false,
-  "pattern": null,
+  "pattern": "patterned",
   "season": "FW26",
   "occasions": [],
   "formality": 2
@@ -3403,7 +3404,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -3415,7 +3416,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
@@ -3466,14 +3467,14 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
     "available": false
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "FW26",
@@ -5327,7 +5328,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -6539,7 +6540,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -8230,9 +8231,10 @@
   "description": "En panne d'inspiration ? Optez pour une carte-cadeau vous donnant accès à l'intégralité des produits Martin Martin. Cette gift card virtuelle est valide pour une durée de 365 jours, Nous vous enverrons par email votre code d'activation carte-cadeau dès validation de votre commande pour une utilisation immédiate en ligne ou en boutique.",
   "url": "https://martinmartin-paris.com/products/carte-cadeau",
   "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CARTECADEAU_1.png?v=1793896166",
    "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/cartecadeau.png?v=1765460884"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/cartecadeau.png?v=1765460884",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/CARTECADEAU_1.png?v=1793896166",
   "sizes": [
    {
     "size": "€100.00",
