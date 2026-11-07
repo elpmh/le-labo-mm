@@ -563,6 +563,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "CAPU",
    "Chemise - coupe ample - rayures kaki",
    "chemises",
    "FW26",
@@ -572,7 +573,7 @@
   "climate": "cold",
   "isNew": true,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": "patterned",
   "season": "FW26",
   "occasions": [],
@@ -1476,6 +1477,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "CAPU",
    "Chemise - coupe ample - tartan beige",
    "chemises",
    "FW26",
@@ -1484,7 +1486,7 @@
   "climate": "cold",
   "isNew": false,
   "onSale": false,
-  "capuPick": false,
+  "capuPick": true,
   "pattern": "patterned",
   "season": "FW26",
   "occasions": [],
@@ -2267,7 +2269,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -2853,7 +2855,7 @@
    },
    {
     "size": "S",
-    "available": true
+    "available": false
    },
    {
     "size": "M",
@@ -3404,7 +3406,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
