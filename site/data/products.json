@@ -2795,7 +2795,7 @@
   "sizes": [
    {
     "size": "XS",
-    "available": true
+    "available": false
    },
    {
     "size": "S",
@@ -3297,11 +3297,16 @@
   "description": "- Coupe oversize - 3 boutons dorés signature MM - Col tailleur - Manches longues - poignet pattes de serrage et bouton doré signature MM - Poches sur coté La mannequin en couverture mesure 1m72 et porte une taille 1",
   "url": "https://martinmartin-paris.com/products/manteau-brad-noir",
   "images": [
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0473_BasseDef.jpg?v=1785509450",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0465_BasseDef.jpg?v=1785509446",
-   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0510_BasseDef.jpg?v=1785509449"
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_3.png?v=1794309785",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_4.png?v=1794309785",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_2.png?v=1794309785",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_CAPU_2.png?v=1794310246",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_1.png?v=1794309785",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_5.png?v=1794309785",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_CAPU_1.png?v=1794310246",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_6.png?v=1794309785"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0473_BasseDef.jpg?v=1785509450",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BRAD_3.png?v=1794309785",
   "sizes": [
    {
     "size": "0",
@@ -3469,14 +3474,14 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
     "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "CAPU",
    "FW26",
@@ -3648,7 +3653,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
@@ -4964,7 +4969,7 @@
   "sizes": [
    {
     "size": "1",
-    "available": true
+    "available": false
    },
    {
     "size": "2",
