@@ -1831,10 +1831,10 @@
   "sizes": [
    {
     "size": "TU",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "accessoire",
    "accessoires",
@@ -3469,7 +3469,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -3484,7 +3484,7 @@
     "available": false
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "FW26",
    "NEWIN",
@@ -3711,7 +3711,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -5028,7 +5028,7 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
