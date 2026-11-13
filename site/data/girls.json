@@ -600,17 +600,17 @@
   "categoryFr": "Pantalons",
   "price": 165.0,
   "colors": [
-   "brown"
+   "camel"
   ],
   "colorsFr": [
-   "marron"
+   "camel"
   ],
-  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/25.jpg?v=1788011492",
-  "url": "https://martinmartin-paris.com/products/pantalon-noddy-marron",
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0595_BasseDef_75d3981d-035d-497e-b763-28bfa52d6b69.jpg?v=1784726291",
+  "url": "https://martinmartin-paris.com/products/pantalon-noddy-camel",
   "available": true,
-  "persona": "Elle marche vite et prend les escaliers. Sa palette tient de l'encre et de l'ombre — elle gomme la couleur. Une icône du mardi — la vraie vie, bien menée.",
+  "persona": "Elle marche vite et prend les escaliers. Elle vit en crème et en ivoire, douce mais jamais fragile. Une icône du mardi — la vraie vie, bien menée.",
   "occasion": "everyday",
-  "palette": "dark",
+  "palette": "light",
   "boldness": "quiet",
   "tier": "mid"
  },

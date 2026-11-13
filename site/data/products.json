@@ -1,5 +1,118 @@
 [
  {
+  "id": 11385345900887,
+  "title": "Ensemble Pam-Jeff",
+  "name": "Pam-Jeff",
+  "category": "Sets",
+  "categoryFr": "Ensembles",
+  "price": 340.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "Total look avec cet ensemble noir, composé de notre intemporel body Pam et du Pantalon Jeff. Le dos plongeant du body pam, rehaussée par nos bretelles en boutons dorés signature Martin Martin, s’associe à la coupe droite du pantalon Jeff pour une silhouette de caractère. Un ensemble élégant à porter au quotidien.",
+  "url": "https://martinmartin-paris.com/products/ensemble-pam-jeff",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamnoir_5_c3ec0614-0c71-4f30-a5d8-de1e27a116da.jpg?v=1770188639",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/BodyPamnoir_1.jpg?v=1769435291",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/38_0870ea6d-02c4-48f0-a4b7-83318d4ffda6.jpg?v=1788187914",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/FW26BPAMJG001_10.jpg?v=1784796303",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0038_BasseDef.jpg?v=1784802008",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/20260701_MartinMartin_0043_BasseDef.jpg?v=1784802019"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Bodypamnoir_5_c3ec0614-0c71-4f30-a5d8-de1e27a116da.jpg?v=1770188639",
+  "sizes": [
+   {
+    "size": "34",
+    "available": true
+   },
+   {
+    "size": "34",
+    "available": true
+   },
+   {
+    "size": "34",
+    "available": true
+   },
+   {
+    "size": "34",
+    "available": true
+   },
+   {
+    "size": "34",
+    "available": true
+   },
+   {
+    "size": "36",
+    "available": true
+   },
+   {
+    "size": "36",
+    "available": true
+   },
+   {
+    "size": "36",
+    "available": true
+   },
+   {
+    "size": "36",
+    "available": true
+   },
+   {
+    "size": "36",
+    "available": true
+   },
+   {
+    "size": "38",
+    "available": true
+   },
+   {
+    "size": "38",
+    "available": true
+   },
+   {
+    "size": "38",
+    "available": true
+   },
+   {
+    "size": "38",
+    "available": true
+   },
+   {
+    "size": "38",
+    "available": true
+   },
+   {
+    "size": "40",
+    "available": true
+   },
+   {
+    "size": "40",
+    "available": true
+   },
+   {
+    "size": "40",
+    "available": true
+   },
+   {
+    "size": "40",
+    "available": true
+   },
+   {
+    "size": "40",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": null,
+  "season": null,
+  "occasions": [],
+  "formality": 2
+ },
+ {
   "id": 11377292935511,
   "title": "Carte Cadeau",
   "name": "Carte Cadeau",
@@ -233,7 +346,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "34",
@@ -241,7 +354,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -249,7 +362,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -257,7 +370,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -1831,10 +1944,10 @@
   "sizes": [
    {
     "size": "TU",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "accessoire",
    "accessoires",
@@ -2339,10 +2452,10 @@
    },
    {
     "size": "42",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "CAPU",
    "FW26",
@@ -2909,11 +3022,11 @@
   "sizes": [
    {
     "size": "XS",
-    "available": false
+    "available": true
    },
    {
     "size": "S",
-    "available": false
+    "available": true
    },
    {
     "size": "M",
@@ -2921,7 +3034,7 @@
    },
    {
     "size": "L",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -3469,7 +3582,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -3484,7 +3597,7 @@
     "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "FW26",
    "NEWIN",
@@ -4980,7 +5093,7 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
@@ -6753,6 +6866,7 @@
   "anyAvailable": true,
   "tags": [
    "manteaux",
+   "mm-offre-membres",
    "SS26",
    "travelchic"
   ],
