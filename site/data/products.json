@@ -346,7 +346,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "34",
@@ -354,7 +354,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -362,7 +362,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -370,7 +370,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -880,10 +880,10 @@
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - noire chevron",
    "chemises",
@@ -3708,7 +3708,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
@@ -5093,7 +5093,7 @@
   "sizes": [
    {
     "size": "1",
-    "available": true
+    "available": false
    },
    {
     "size": "2",
@@ -5969,7 +5969,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -7762,7 +7762,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "36",
@@ -7786,7 +7786,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -7810,7 +7810,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -7834,7 +7834,7 @@
    },
    {
     "size": "42",
-    "available": true
+    "available": false
    },
    {
     "size": "42",
@@ -7858,7 +7858,7 @@
    },
    {
     "size": "44",
-    "available": true
+    "available": false
    },
    {
     "size": "44",
