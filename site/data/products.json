@@ -190,38 +190,38 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [],
   "climate": "all",
   "isNew": false,
@@ -346,7 +346,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "34",
@@ -354,7 +354,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -362,7 +362,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -370,7 +370,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -877,14 +877,14 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - noire chevron",
    "chemises",
@@ -2980,7 +2980,7 @@
    },
    {
     "size": "S",
-    "available": true
+    "available": false
    },
    {
     "size": "M",
@@ -3036,11 +3036,11 @@
    },
    {
     "size": "S",
-    "available": true
+    "available": false
    },
    {
     "size": "M",
-    "available": false
+    "available": true
    },
    {
     "size": "L",
@@ -3878,7 +3878,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -3886,11 +3886,11 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -4059,7 +4059,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
   "anyAvailable": true,
@@ -4167,7 +4167,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -5018,14 +5018,14 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "Chemise - coupe ample - carreaux marines",
    "chemises",
@@ -5108,7 +5108,7 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
@@ -5248,14 +5248,14 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "Chemise - coupe ample - carreaux bleus",
@@ -5350,14 +5350,14 @@
   "sizes": [
    {
     "size": "1",
-    "available": false
+    "available": true
    },
    {
     "size": "2",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "Chemise - coupe ample - beige chevron",
