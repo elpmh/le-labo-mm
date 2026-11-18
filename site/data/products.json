@@ -2984,7 +2984,7 @@
    },
    {
     "size": "M",
-    "available": true
+    "available": false
    },
    {
     "size": "L",
@@ -3044,7 +3044,7 @@
    },
    {
     "size": "L",
-    "available": true
+    "available": false
    }
   ],
   "anyAvailable": true,
@@ -3150,7 +3150,7 @@
    },
    {
     "size": "S",
-    "available": true
+    "available": false
    },
    {
     "size": "M",
