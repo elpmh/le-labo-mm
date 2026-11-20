@@ -1,5 +1,270 @@
 [
  {
+  "id": 10591671812439,
+  "title": "Chemise Agathe",
+  "name": "Agathe",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 180.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "- Chemise droite - Manches longues - Grand poignets avec détail de bouton doré signature MM - Patte de boutonnage caché",
+  "url": "https://martinmartin-paris.com/products/chemise-agathe-rayee",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseagatherayee_2.jpg?v=1772470629",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ChemiseAgathe_3.jpg?v=1772470629",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ChemiseAgatherayee_4.jpg?v=1772470629",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ChemiseAgatherayee_1.jpg?v=1772470631"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseagatherayee_2.jpg?v=1772470629",
+  "sizes": [
+   {
+    "size": "34",
+    "available": true
+   },
+   {
+    "size": "36",
+    "available": true
+   },
+   {
+    "size": "38",
+    "available": true
+   },
+   {
+    "size": "40",
+    "available": true
+   },
+   {
+    "size": "42",
+    "available": true
+   },
+   {
+    "size": "44",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "ARCHIVE",
+   "chemises",
+   "mm-offre-membres",
+   "SS26",
+   "TOP"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": null,
+  "season": "SS26",
+  "occasions": [],
+  "formality": 2
+ },
+ {
+  "id": 10537729622359,
+  "title": "Chemise boy",
+  "name": "boy",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 155.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "- Chemise ample - Une poche poitrine - Manches longues - Poignets avec 1 bouton-pression doré signature MM - Patte de boutonnage avec boutons-pression dorés signature MM",
+  "url": "https://martinmartin-paris.com/products/chemise-boy-pressions-denim",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboypressionsdenim_1.jpg?v=1770128108",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/chemiseboypressionsdemin_2.jpg?v=1770128109",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboypressionsdenim_3.jpg?v=1770128108",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboypressionsdenim_4.jpg?v=1770128108"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboypressionsdenim_1.jpg?v=1770128108",
+  "sizes": [
+   {
+    "size": "1",
+    "available": false
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "ARCHIVE",
+   "chemises",
+   "mm-offre-membres",
+   "SS26",
+   "TOP",
+   "travelchic",
+   "uni"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": "plain",
+  "season": "SS26",
+  "occasions": [
+   "travel"
+  ],
+  "formality": 2
+ },
+ {
+  "id": 10591751766359,
+  "title": "Robe Kylie",
+  "name": "Kylie",
+  "category": "Dresses",
+  "categoryFr": "Robes",
+  "price": 290.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "- Robe courte - Coupe ajustée - Manches longues et près du corps - Décolleté profond en V - Fronces à la taille - Détail central avec boutons dorés signature MM",
+  "url": "https://martinmartin-paris.com/products/robe-kylie-noir",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKylienoir_4.jpg?v=1772445544",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKylienoir_2.jpg?v=1772445544",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKylienoir_3.jpg?v=1772445544",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKylienoir_1.jpg?v=1772445544"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/RobeKylienoir_4.jpg?v=1772445544",
+  "sizes": [
+   {
+    "size": "34",
+    "available": true
+   },
+   {
+    "size": "36",
+    "available": true
+   },
+   {
+    "size": "38",
+    "available": true
+   },
+   {
+    "size": "40",
+    "available": true
+   },
+   {
+    "size": "42",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "ARCHIVE",
+   "cocktail dress",
+   "mm-offre-membres",
+   "Robe",
+   "SS26"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": null,
+  "season": "SS26",
+  "occasions": [
+   "event"
+  ],
+  "formality": 4
+ },
+ {
+  "id": 10537564340567,
+  "title": "Chemise Boy",
+  "name": "Boy",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 160.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "- Chemise oversize - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM",
+  "url": "https://martinmartin-paris.com/products/chemise-boy-rayure-marine-blanc",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ChemiseBoymarine_2.jpg?v=1770126739",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ChemiseBoymarine_4.jpg?v=1770126739",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ChemiseBoymarine_1.jpg?v=1770126739",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ChemiseBoymarine_3.jpg?v=1770126739"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/ChemiseBoymarine_2.jpg?v=1770126739",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "ARCHIVE",
+   "chemises",
+   "mm-offre-membres",
+   "motif",
+   "SS26",
+   "TOP",
+   "travelchic"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": "patterned",
+  "season": "SS26",
+  "occasions": [
+   "travel"
+  ],
+  "formality": 2
+ },
+ {
+  "id": 10537544810839,
+  "title": "Chemise Boy",
+  "name": "Boy",
+  "category": "Shirts",
+  "categoryFr": "Chemises",
+  "price": 150.0,
+  "colors": [],
+  "colorsFr": [],
+  "description": "- Chemise oversize - Une poche poitrine - Manches longues - Poignets avec 1 bouton doré signature MM - Patte de boutonnage avec boutons dorés signature MM",
+  "url": "https://martinmartin-paris.com/products/chemise-boy-3",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboyrose_3_1791586d-e4e9-48df-948c-0b5125d071c4.jpg?v=1773398443",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboyrose_2_12fb2036-0f1c-4a16-a857-e700d1832e67.jpg?v=1773398443",
+   "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboyrose_1_3b5a409a-10aa-4b94-a299-bac1e697738e.jpg?v=1773398443"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/0561/3528/6934/files/Chemiseboyrose_3_1791586d-e4e9-48df-948c-0b5125d071c4.jpg?v=1773398443",
+  "sizes": [
+   {
+    "size": "1",
+    "available": true
+   },
+   {
+    "size": "2",
+    "available": true
+   }
+  ],
+  "anyAvailable": true,
+  "tags": [
+   "ARCHIVE",
+   "chemises",
+   "mm-offre-membres",
+   "SS26",
+   "travelchic",
+   "uni"
+  ],
+  "climate": "all",
+  "isNew": false,
+  "onSale": false,
+  "capuPick": false,
+  "pattern": "plain",
+  "season": "SS26",
+  "occasions": [
+   "travel"
+  ],
+  "formality": 2
+ },
+ {
   "id": 11385345900887,
   "title": "Ensemble Pam-Jeff",
   "name": "Pam-Jeff",
@@ -837,6 +1102,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "Jupe",
    "Jupe- courte - drapée - grise",
@@ -1119,10 +1385,12 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "BODY",
    "Body - dos nu - léopard",
    "FW26",
    "leopard",
+   "mm-offre-membres",
    "NEWIN"
   ],
   "climate": "all",
@@ -1228,6 +1496,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "Chemise - Coupe cintrée - blanche",
    "chemises",
    "FW26",
@@ -1338,6 +1607,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "leopard",
    "manteau",
@@ -1510,6 +1780,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "FW26",
    "Jupe",
@@ -1562,6 +1833,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "FW26",
    "Jupe",
@@ -1757,6 +2029,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "mm-offre-membres",
    "NEWIN",
@@ -1817,6 +2090,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "mm-offre-membres",
    "NEWIN",
@@ -1902,10 +2176,10 @@
   "sizes": [
    {
     "size": "TU",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "accessoire",
    "accessoires",
@@ -1951,10 +2225,10 @@
   "sizes": [
    {
     "size": "TU",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "accessoire",
    "accessoires",
@@ -2063,6 +2337,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "Jupe",
    "Jupe- courte - drapée - noire",
@@ -2120,10 +2395,12 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "cocktail dress",
    "FW26",
    "leopard",
+   "mm-offre-membres",
    "NEWIN",
    "robe",
    "Robe - Dos nu - Léopard"
@@ -2183,8 +2460,10 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "leopard",
+   "mm-offre-membres",
    "NEWIN",
    "Pantalon",
    "Pantalon - Coupe droite - Léopard"
@@ -2667,6 +2946,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "Jupe",
    "Jupe - crayon - kaki",
@@ -2720,6 +3000,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "Jupe",
    "Jupe - crayon - similicuir",
@@ -2976,15 +3257,15 @@
   "sizes": [
    {
     "size": "XS",
-    "available": false
+    "available": true
    },
    {
     "size": "S",
-    "available": false
+    "available": true
    },
    {
     "size": "M",
-    "available": false
+    "available": true
    },
    {
     "size": "L",
@@ -3036,7 +3317,7 @@
    },
    {
     "size": "S",
-    "available": false
+    "available": true
    },
    {
     "size": "M",
@@ -3150,7 +3431,7 @@
    },
    {
     "size": "S",
-    "available": false
+    "available": true
    },
    {
     "size": "M",
@@ -3216,8 +3497,10 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "manteaux",
+   "mm-offre-membres",
    "NEWIN",
    "Veste - saharienne - noire"
   ],
@@ -3269,9 +3552,11 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "FW26",
    "manteaux",
+   "mm-offre-membres",
    "NEWIN",
    "Veste - saharienne - camel"
   ],
@@ -3330,9 +3615,11 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "Manteau - oversize - noir",
    "manteaux",
+   "mm-offre-membres",
    "NEWIN"
   ],
   "climate": "cold",
@@ -3392,9 +3679,11 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "Manteau - oversize - gris",
    "manteaux",
+   "mm-offre-membres",
    "NEWIN"
   ],
   "climate": "cold",
@@ -3451,10 +3740,12 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "FW26",
    "Manteau - oversize - camel",
    "manteaux",
+   "mm-offre-membres",
    "NEWIN"
   ],
   "climate": "cold",
@@ -4473,6 +4764,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "cocktail dress",
    "FW26",
@@ -4593,6 +4885,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "FW26",
    "mm-offre-membres",
@@ -4703,6 +4996,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "Jupe",
    "Jupe - crayon - noire",
@@ -4759,6 +5053,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "Jupe",
    "Jupe - crayonn - marron",
@@ -4983,6 +5278,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "FW26",
    "Jean-coupe-flare-bleu",
@@ -5481,6 +5777,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "FW26",
    "mm-offre-membres",
    "Pantalon",
@@ -5532,6 +5829,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "jupe",
    "mm-offre-membres",
    "SS26",
@@ -5592,6 +5890,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Robe",
    "SS26",
@@ -5650,6 +5949,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "intemporels",
    "mm-offre-membres",
    "Robe",
@@ -5711,6 +6011,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "hauts",
    "mm-offre-membres",
    "SS26",
@@ -5773,6 +6074,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "hauts",
    "mm-offre-membres",
    "SS26",
@@ -5835,6 +6137,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "hauts",
    "intemporels",
    "mm-offre-membres",
@@ -5901,6 +6204,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "chemises",
    "mm-offre-membres",
    "SS26",
@@ -5951,11 +6255,12 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "hauts",
    "mm-offre-membres",
    "SS26",
@@ -6001,7 +6306,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -6018,6 +6323,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Pantalon",
    "SS26",
@@ -6079,6 +6385,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Pantalon",
    "SS26",
@@ -6141,6 +6448,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Pantalon",
    "SS26",
@@ -6201,6 +6509,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Pantalon",
    "SS26",
@@ -6263,6 +6572,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Pantalon",
    "SS26",
@@ -6302,7 +6612,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -6319,6 +6629,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "jupe",
    "mm-offre-membres",
    "SS26",
@@ -6380,6 +6691,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "jupe",
    "mm-offre-membres",
    "SS26",
@@ -6433,6 +6745,7 @@
   ],
   "anyAvailable": false,
   "tags": [
+   "ARCHIVE",
    "body",
    "mm-offre-membres",
    "SS26",
@@ -6479,7 +6792,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -6488,6 +6801,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "body",
    "mm-offre-membres",
    "SS26",
@@ -6546,6 +6860,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "mm-offre-membres",
    "Robe",
@@ -6605,6 +6920,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Robe",
    "SS26",
@@ -6645,7 +6961,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -6657,11 +6973,12 @@
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Robe",
    "SS26",
@@ -6698,11 +7015,11 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -6710,15 +7027,16 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Robe",
    "SS26",
@@ -6760,7 +7078,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -6781,6 +7099,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Robe",
    "SS26",
@@ -6843,6 +7162,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "mm-offre-membres",
    "Robe",
    "SS26",
@@ -6904,6 +7224,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "manteaux",
    "mm-offre-membres",
    "SS26",
@@ -6960,6 +7281,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "manteaux",
    "mm-offre-membres",
@@ -7025,6 +7347,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "manteaux",
    "mm-offre-membres",
    "SS26",
@@ -7085,6 +7408,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "manteaux",
    "mm-offre-membres",
    "SS26",
@@ -7122,7 +7446,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -7147,6 +7471,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "manteaux",
    "mm-offre-membres",
    "SS26",
@@ -7204,6 +7529,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "manteaux",
    "mm-offre-membres",
    "SS26",
@@ -7360,6 +7686,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "CAPU",
    "hauts",
    "mm-offre-membres",
@@ -7415,6 +7742,7 @@
   ],
   "anyAvailable": true,
   "tags": [
+   "ARCHIVE",
    "hauts",
    "mm-offre-membres",
    "pull",
@@ -7628,7 +7956,7 @@
    },
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -7816,7 +8144,7 @@
    },
    {
     "size": "36",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -7840,7 +8168,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "38",
@@ -7864,7 +8192,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -7888,7 +8216,7 @@
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
@@ -7912,7 +8240,7 @@
    },
    {
     "size": "44",
-    "available": false
+    "available": true
    },
    {
     "size": "44",
