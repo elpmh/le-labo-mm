@@ -1307,7 +1307,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -2500,7 +2500,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    },
    {
     "size": "42",
@@ -3995,14 +3995,14 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
     "available": false
    }
   ],
-  "anyAvailable": false,
+  "anyAvailable": true,
   "tags": [
    "CAPU",
    "FW26",
@@ -5918,7 +5918,7 @@
    },
    {
     "size": "36",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -6304,10 +6304,10 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    }
   ],
-  "anyAvailable": true,
+  "anyAvailable": false,
   "tags": [
    "ARCHIVE",
    "hauts",
@@ -6608,7 +6608,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    },
    {
     "size": "42",
@@ -7379,7 +7379,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -8217,19 +8217,19 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -8397,7 +8397,7 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
@@ -8421,7 +8421,7 @@
    },
    {
     "size": "40",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
@@ -8445,7 +8445,7 @@
    },
    {
     "size": "42",
-    "available": true
+    "available": false
    },
    {
     "size": "42",
@@ -8546,19 +8546,19 @@
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "38",
-    "available": true
+    "available": false
    },
    {
     "size": "40",
