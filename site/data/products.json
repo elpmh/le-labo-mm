@@ -19,7 +19,7 @@
   "sizes": [
    {
     "size": "1",
-    "available": true
+    "available": false
    },
    {
     "size": "2",
@@ -1307,7 +1307,7 @@
    },
    {
     "size": "38",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -6347,7 +6347,7 @@
   "sizes": [
    {
     "size": "34",
-    "available": false
+    "available": true
    },
    {
     "size": "36",
@@ -8233,7 +8233,7 @@
    },
    {
     "size": "40",
-    "available": false
+    "available": true
    },
    {
     "size": "40",
@@ -8257,7 +8257,7 @@
    },
    {
     "size": "42",
-    "available": false
+    "available": true
    },
    {
     "size": "42",
@@ -8281,7 +8281,7 @@
    },
    {
     "size": "44",
-    "available": false
+    "available": true
    },
    {
     "size": "44",
